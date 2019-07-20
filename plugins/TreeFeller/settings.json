@@ -1,5 +1,5 @@
 {
-  "mcMMOTreeFeller": false,
+  "mcMMOTreeFeller": true,
   "instantTreeCut": false,
   "instantToInventory": true,
   "plantSapling": true,

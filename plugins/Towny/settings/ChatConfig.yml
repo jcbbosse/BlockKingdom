@@ -86,12 +86,12 @@ channel_formats:
   default: '{channelTag} {permprefix}{playername}{permsuffix}&f:{msgcolour} {msg}'
  
 tag_formats:
-  world: '&f[&f%s&f] '
-  town: '&f[&3%s&f] '
-  nation: '&f[&e%s&f] '
+  world: '&8[&f%s&8] '
+  town: '&8[&b%s&8] '
+  nation: '&8[&6%s&8] '
   # First %s is the nation tag, second is the town tag.
   # You may also use %t for the town tag and %n for the nation tag!
-  both: '&f[&6%s&f|&3%s&f] '
+  both: '&8[&6%s&8|&5%s&8] '
  
 colour:
   king: '&6'
