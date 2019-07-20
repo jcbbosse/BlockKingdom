@@ -1,2 +1,26 @@
+
 # BlockKingdom
-This is the meat and bones of the BlockKingdom Minecraft server. We pride ourselves on being the first community driven Minecraft server. Clone the repository, become a contributor, ,submit an issue, and help us improve our server!
+## Overview
+This is the meat and bones of the BlockKingdom Minecraft server. We pride ourselves on being the first community driven Minecraft server!
+
+My name is ChickensBurning and I have been in and out of the server administration game for over half a decade, owning and operating three separate servers! During the past couple years I have been focusing on my personal life and therefore have taken a break from the community. However, from my time in college and my work on the professional front in cyber security and software development I have grown a longing to dive back into the world of server administration and game development.
+
+Long story short I have begun my newest project, sparking the start of a community driven Minecraft server. One developed for the players by the players. Our mission at BlockKingdom is simple, give players what they want. And the only person that knows what you want is you. Therefore, every day we allow our players to browse the backend configuration of our server and suggest new additions or edits of their own to be reviewed and possible implemented. Allowing us to ultimately create the best Minecraft experience for you!
+
+## Getting Started
+### Play on the Server [IP: blockkingdom.net] - BETA LAUNCH ON JULY 26, 2019
+Get started playing now by connecting to our Minecraft server using the IP posted above!
+
+### Join us on Discord [[Invitation Link](https://discord.gg/rRYjyha)]
+As a vibrant community we pride ourselves on always being connected with each other, even off of the server! Come connect, laugh, and chat with all your friends in the BlockKingdom community by clicking the invitation link above!
+
+### Browse our Website [[Website Link](www.blockkingdom.net)] - UNDER CONSTRUCTION
+Browse our site online to find help and guidance for all of the services we offer!
+
+### Support our Mission [[Webstore Link](www.blockkingdom.buycraft.net)] - UNDER CONSTRUCTION
+Pick up a nifty rank to show your support and progress in the game with one of the many packages selling on our webstore.
+
+Even though BlockKingdom is developed and run by the community we still have monthly costs. Please consider supporting our cause and help us stay online by donating!
+
+## How to Help
+Clone the repository, become a contributor, submit an issue, and help us improve our server!
