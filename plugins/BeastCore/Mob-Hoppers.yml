@@ -1,12 +1,12 @@
 Mob-Hoppers:
-  enabled: true
+  enabled: false
   disabled-message: '&cCrop Hoppers are disabled!'
   command:
     enabled: true
     permission: bfc.mobhoppers.give
-    no-permission-msg: '&C(!) You dont have permission!'
+    no-permission-msg: '(!) You dont have permission!'
     player-not-online: '&cThe player is not online!'
-    no-slot: '&cThe player has not a disponible slot!'
+    no-slot: '&cThe player has no slots!'
     give-message: '&eYou gave &d{player} &e{number} &7mob hopper/s of &d{mob}!'
     recieve-message: '&eYou recieved &d{number} &eMob hopper/s! of &d{mob}'
     not-allowed-mob: '&c(!) &4{mob} &cis not a mob or is not in the allowed mobs list!'

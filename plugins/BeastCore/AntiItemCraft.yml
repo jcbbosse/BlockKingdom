@@ -1,10 +1,10 @@
 Anti-Item-Craft:
-  message: '&cYou cant craft &e{item}'
+  message: '&cYou are unable to craft &b{item}'
   enabled: true
   command:
     enabled: true
     permission: btf.antiitemcraft.command
-    no-permission-msg: '&4(!) &cYou don´t have permission!'
+    no-permission-msg: '&cYou don´t have permission!'
   menu:
     save-message: '&aFilter saved!'
     toggle-button:
@@ -12,7 +12,7 @@ Anti-Item-Craft:
       name: '&dEnabled'
       damage: '0'
       lore-enabled:
-      - '&eEnabled'
+      - '&aEnabled'
       lore-disabled:
       - '&cDisabled'
       position: 51

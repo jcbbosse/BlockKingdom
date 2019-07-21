@@ -1,6 +1,6 @@
 Item-Filter:
   Command:
-    enabled: true
+    enabled: false
     permission: btf.itemfilter.command
     no-permission-message: '&cYou dont have permission!'
   GUI:

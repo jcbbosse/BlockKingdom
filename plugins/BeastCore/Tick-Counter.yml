@@ -1,4 +1,4 @@
-enabled: true
+enabled: false
 Item:
   material: BLAZE_ROD
   name: '&dTicks counter'

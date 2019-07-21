@@ -1,5 +1,5 @@
 Lightning-Tools:
-  enabled: true
+  enabled: false
   disabled-message: '&c(!)&4Lightning wands are disabled!'
   Tool:
     Material: BLAZE_ROD

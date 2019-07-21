@@ -1,10 +1,10 @@
 Settings:
-  enabled: true
+  enabled: false
   disabled-message: '&cExperience withdraw was disabled by an operator!'
   max-raw-withdraw: 10000
   max-level-withdraw: 30
 command:
-  enabled: true
+  enabled: false
   permission: btf.expwithdraw.command
   no-permission-msg: '&cYou dont have permission to use this command!'
   formats:

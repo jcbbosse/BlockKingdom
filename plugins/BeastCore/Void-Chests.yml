@@ -1,6 +1,6 @@
 Void-Chests:
   enabled: true
-  use-essentials-worth: false
+  use-essentials-worth: true
   use-shop-gui-plus-worth: false
   disabled-message: '&c(!) &4Void chests are disabled!'
   use-default-sell-system-if-others-fail: false
@@ -25,13 +25,13 @@ Void-Chests:
     no-place-permission-msg: '&c(!) &4You dont have permission to place void chests!'
     sell-time: 30
   Life-Time:
-    enabled: false
-    max-life-time-in-seconds: 86400
+    enabled: true
+    max-life-time-in-seconds: 259200
     remove-chest: true
   Interact-Messages:
     get-chest-owners-name-message: '&7The void chest you clicked is owned by: &c{player}'
   Holograms:
-    enabled: false
+    enabled: true
     hologram-lines:
-    - '&7Void chest owned by: &c{player}'
-    - '&eLife Time: &c{life_time}'
+    - '&a{player} &7| &7Void Chest'
+    - '&eLifetime: &c{life_time}'

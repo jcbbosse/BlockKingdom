@@ -1,8 +1,8 @@
 FPS-Booster:
-  enabled: true
+  enabled: false
   disabled-message: '&cFps booster was disabled by an operator'
   command:
-    enabled: true
+    enabled: false
     permission: btf.fpsboost.use
     no-permission-msg: '&c(!) &4You dont have permission!'
   invisible-drops-list:

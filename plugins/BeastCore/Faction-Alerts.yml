@@ -1,8 +1,8 @@
 Faction-Alerts:
-  enabled: true
+  enabled: false
   disabled-message: '&c(!)&4 Alerts are disabled!'
   command:
-    enabled: true
+    enabled: false
     permission: btf.falerts.command
     no-permission: '&4(!) &cYou dont have permission!'
     no-faction: '&4(!) &cYou need a faction to perform this command!'

@@ -1,6 +1,6 @@
-enabled: true
+enabled: false
 command:
-  enabled: true
+  enabled: false
   permission: btf.moneywithdraw.command
   withdraw-admin-permission: btf.adminwithdraw.command
   formats:

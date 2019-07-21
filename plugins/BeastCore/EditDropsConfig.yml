@@ -1,5 +1,5 @@
 Edit-Drops:
-  enabled: true
+  enabled: false
 Gui-Menu:
   menu-title: '&dDrop editing!'
   back-button:

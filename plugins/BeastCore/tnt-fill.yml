@@ -1,6 +1,6 @@
 TnT-Fill:
   command:
-    enabled: true
+    enabled: false
     formats:
     - '&dDefault radius command: &e/tntfill <amount>'
     - '&dCustom radius command: &e/tntfill &a<radius> &a<amount>'
@@ -22,7 +22,7 @@ TnT-Fill:
     default-fill-radius: 16
 TnT-Unfill:
   command:
-    enabled: true
+    enabled: false
     permission: btf.tntunfill.use
     no-permission-msg: '&c(!) &4You dont have permission to do that!'
     full-unfill-permission: btf.tntfullunfill.use

@@ -4,3 +4,15 @@ command-Cooldowns:
     bypass-permission: creeper.beastCooldown.bypass
     on-beastCooldown-message: '&cYou cant use creeper command until the beastCooldown
       ends: &e{cooldown_formatted}'
+  repair_all:
+    beastCooldown: 259200
+    bypass-permission: repairall.beastCooldown.bypass
+    on-beastCooldown-message: '&cYou cant use &fRepairAll &cuntil: &e{cooldown_formatted}'
+  repair:
+    beastCooldown: 10800
+    bypass-permission: repair.beastCooldown.bypass
+    on-beastCooldown-message: '&cYou cant use &fRepair &cuntil: &e{cooldown_formatted}'
+  pvptoggle:
+    beastCooldown: 600
+    bypass-permission: pvptoggle.beastCooldown.bypass
+    on-beastCooldown-message: '&cYou cant use &fPvptoggle &cuntil: &e{cooldown_formatted}'

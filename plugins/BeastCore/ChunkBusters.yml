@@ -1,5 +1,5 @@
 Chunk-Busters:
-  enabled: true
+  enabled: false
   disabled-message: '&c(!) &4Chunkbusters are disabled!'
   command:
     enabled: true

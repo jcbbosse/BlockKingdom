@@ -1,5 +1,5 @@
 Grace-Period:
-  enabled: false
+  enabled: true
   permission: grace-command
   toggle-permission: btf.grace.toggle
   no-permission: '&4&l(!) &cYou don´t have permission!'

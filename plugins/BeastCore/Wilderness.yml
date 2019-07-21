@@ -4,12 +4,12 @@ Command:
     no-permission-msg: '&cYou dont have permission!'
     delay: 5
     countdown: true
-    countdown-message: '&eExecuting wild in &7{seconds} &edont move!'
-    cancelled-due-movement: '&cYou moved while warming up!'
-    deny-teleport-to-factions: true
-    max-tries-to-find-location: 10000
-    no-suitable-location: '&cWe didnt find any suitable location, try again!'
-    teleporting: '&eTeleporting...'
+    countdown-message: '&f> &eWarping to &2Wilderness &ein &a{seconds} &edont move!'
+    cancelled-due-movement: '&f> &cYou moved while warming up!'
+    deny-teleport-to-factions: false
+    max-tries-to-find-location: 5000
+    no-suitable-location: '&f> &cWe didnt find any suitable location, try again!'
+    teleporting: '&f> &eTeleporting...'
     enabled: true
     blacklisted-blocks:
     - WATER
@@ -21,8 +21,8 @@ Command:
     world-not-allowed: '&cThe world you are in, does not allow &7/wild &c!'
     Worlds:
       world:
-        max-radius: 6000
-        min-radius: 1000
+        max-radius: 3000
+        min-radius: 500
       other_world_name:
         max-radius: 3000
         min-radius: 600
