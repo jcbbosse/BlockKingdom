@@ -1,6 +1,6 @@
 'Enable Ambient Sounds ': true
 'Nether Lightning ': true
-'Soulsand Slowness ': true
+'Soulsand Slowness ': false
 'Netherrack Fires ': true
 'Enable Custom Mobs ': true
 'Enable Mean Ghasts ': true
@@ -9,53 +9,53 @@
 'Enable Lava Spouts ': true
 'Enable Falling Nether ': true
 'Enable Nether Structures ': true
-'Enable Alpha Pigman Sword Drop ': true
-'Wither Potion Drops ': true
-'Haste Potion Drops ': true
+'Enable Alpha Pigman Sword Drop ': false
+'Wither Potion Drops ': false
+'Haste Potion Drops ': false
 'Extended Wither Boss ': false
 'Enderman Growl replace Enderdragon Growl ': false
 '::::Higher equals lower chance!::::': ''
 'Lightning Chance ': 0
-'Netherack Melting Chance ': 18
-'Netherrack Fire Chance ': 10
-'Mob Spawn Chance ': 5
-'Falling Nether Chance ': 0
+'Netherack Melting Chance ': 14
+'Netherrack Fire Chance ': 6
+'Mob Spawn Chance ': 4
+'Falling Nether Chance ': 5
 'Alpha Pigman Sword Drop Chance ': 1
-'Wind Volume - lower equals louder - ': 800
+'Wind Volume - lower equals louder - ': 810
 'Wind Pitch - must be between 0 and 2 - ': 0
-'Low Y Value Wind ': 70
-'High Y Value Wind ': 200
-'Netherrack Step Sound ': ENTITY_SLIME_SQUISH
-'Wither Potion Drop Chance ': 2
-'Haste Potion Drop Chance ': 2
+'Low Y Value Wind ': 0
+'High Y Value Wind ': 300
+'Netherrack Step Sound ': BLOCK_STONE_STEP
+'Wither Potion Drop Chance ': 10
+'Haste Potion Drop Chance ': 10
 '::::::::::::::::::::::::::::::::::::': ''
 'All Structures Chance ': 0
 'Web Vine Chance ': 0
 'Mushroom Chance ': 0
 'Nether Spike Chance ': 0
-'Nether World Height ': 120
+'Nether World Height ': 150
 'Coral Chance  ': 0
 'Rose Chance ': 0
 'Mushrooms Chance ': 0
-'Replace Netherrack Chance ': 0
+'Replace Netherrack Chance ': 1
 ':::::::::::::::::::::::::::::::::::::': ''
 'Spawn Molten ': true
-'Spawn Fireball ': true
+'Spawn Fireball ': false
 'Spawn Inferno ': true
 'Spawn Old Shadow ': true
 'Spawn Sherogath ': true
-'Spawn Sadness ': true
+'Spawn Sadness ': false
 'Spawn Necromancer ': true
 'Spawn Alpha Pigman ': true
 ':::::Monster Names - no Blanks:::::': ''
 'Molten = ': Molten
 'Fireball = ': Fireball
 'Inferno = ': Inferno
-'Old Shadow = ': Old Shadow
+'Old Shadow = ': The Shadow
 'Sherogath = ': Sherogath
 'Sadness = ': Sadness
-'Necromancer = ': Necromancer
-'Alpha Pigman = ': Alpha Pigman
+'Necromancer = ': Necroskull
+'Alpha Pigman = ': HobPigman
 '::::::::::::::::::::::::::::::::::::::': ''
 'Enabled Worlds - If Left Blank Will Just Use default world ':
 - world_nether
