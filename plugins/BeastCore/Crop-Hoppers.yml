@@ -1,0 +1,60 @@
+Crop-Hoppers:
+  enabled: true
+  disabled-message: '&cCrop Hoppers are disabled!'
+  command:
+    enabled: true
+    permission: bfc.crophoppers.give
+    no-permission-msg: '&C(!) You dont have permission!'
+    player-not-online: '&cThe player is not online!'
+    no-slot: '&cThe player has not a disponible slot!'
+    give-message: '&eYou gave &d{player} &e{number} &7crop hopper/s!'
+    recieve-message: '&eYou recieved &d{number} &ecrop hopper/s!'
+    formats:
+    - '&dUssage: '
+    - '&7- &6/crophoppers give <player> <number>  &dGive a crophopper!'
+    - '&7- &6/crophoppers menu  &dFilter what items will crophoppers recolect!'
+  Item:
+    name: '&dCrop hopper!'
+    lore:
+    - '&ePlace this hopper'
+    - '&eand collect all crops!'
+  Settings:
+    factions-mode: false
+    collect-radius-in-chunks: 2
+    place-permission: bfc.crophoppers.place
+    break-permission: bfc.crophoppers.break
+  Menu:
+    title: '&dCrop hoppers'
+    size: 54
+    save-button:
+      material: EMERALD
+      name: '&aSave'
+      lore: &id001 []
+      damage: '0'
+      position: 51
+    close-button:
+      material: REDSTONE_BLOCK
+      name: '&cClose'
+      lore: *id001
+      damage: '0'
+      position: 52
+    toggle-button:
+      material: BOOK
+      name: '&eToggle'
+      lore-enabled:
+      - '&aEnabled'
+      lore-disabled:
+      - '&cDisabled'
+      damage: '0'
+      position: 53
+  save-message: '&aSaved!'
+  filtered-items: []
+  locations: []
+  Convert-Command:
+    enabled: true
+    permission: btf.crophopper.convert
+    no-permission-message: '&cYou dont have permission!'
+    not-holding-a-hopper: '&cYou dont have a hopper in your hand!'
+    price-per-hopper: 10000
+    not-enough-money: '&cYou dont have enough money!'
+    converted: '&aYou converted &e{amount} &ahopper/s into crophopper/s!'

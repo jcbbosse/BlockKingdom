@@ -1,0 +1,26 @@
+enabled: true
+command:
+  enabled: true
+  permission: btf.moneywithdraw.command
+  withdraw-admin-permission: btf.adminwithdraw.command
+  formats:
+  - '&eCommand ussage for yourself: &7/withdraw <amount>'
+  - '&eCommand ussage for others: &7/withdraw <amount> <player>'
+  no-permission-msg: '&cYou dont have permission to use this command!'
+  you-dont-have-enought-money: '&cYou dont have enought money!'
+  invalid-amount: '&cIntroduce a valid amount of money!'
+  success-message: '&aYou withdrew &e{amount} &a$ !'
+  too-much-money: '&cYou cant withdraw more than &e{max} !'
+  too-low-money: '&cYou have to withdraw at least &e{min} !'
+  not-enough-space-in-inventory: '&cNot enough space in the inventory!'
+Item:
+  material: PAPER
+  name: '&eBank note of &d{player}'
+  damage: 0
+  lore:
+  - '&eLeft click with this note in your hand'
+  - '&eto add &d{amount} &a$ &eto your balance!'
+Settings:
+  min-money: 10
+  max-money: 1000000000
+message-deposit-money: '&eYou deposited &a{amount} &emoney from a bank note!'

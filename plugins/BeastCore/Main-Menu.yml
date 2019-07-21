@@ -1,0 +1,198 @@
+Features-Menu:
+  title: '&dMain Features menu'
+  size: 54
+  Buttons:
+    Enabled:
+      material: EMERALD
+      lore:
+      - '&aEnabled'
+      damage: '0'
+    Disabled:
+      material: REDSTONE_BLOCK
+      lore:
+      - '&cDisabled'
+      damage: '0'
+    Next-Page-Button:
+      material: ARROW
+      name: '&eNext page'
+      damage: 0
+      lore: []
+      position: 53
+    Previous-Page-Button:
+      material: ARROW
+      name: '&ePrevious page'
+      damage: 0
+      lore: []
+      position: 45
+  Features-List:
+    LAPIS_FILLER:
+      name: '&dLapis lazuli filler'
+      position-in-gui: 0
+    TICK_COUNTER:
+      name: '&dTick Counter'
+      position-in-gui: 1
+    ITEMFILTER:
+      name: '&dItemFilter'
+      position-in-gui: 2
+    EXP_WITHDRAW:
+      name: '&dExperience withdraw'
+      position-in-gui: 3
+    ITEM_BURN:
+      name: '&dNo Item Burn'
+      position-in-gui: 4
+    SPAWNER_GUARD:
+      name: '&dNo Spawner Guard'
+      position-in-gui: 5
+    SPAWNER_BREAK:
+      name: '&dSpawner Raiding Protection'
+      position-in-gui: 6
+    PEARL_GLITCH:
+      name: '&dNo Pearl Giltching'
+      position-in-gui: 7
+    WB_PEARL:
+      name: '&dNo WorldBorder Pearl'
+      position-in-gui: 8
+    BOAT_PLACE:
+      name: '&dNo Boat Place'
+      position-in-gui: 9
+    CREEPER_SPAWN:
+      name: '&dNo creeper Glitching'
+      position-in-gui: 10
+    HORSE_MOUNT:
+      name: '&dNo Horse Mount'
+      position-in-gui: 11
+    IRONGOLEM_BURN:
+      name: '&dIronGolem Fast Death'
+      position-in-gui: 12
+    BOTTLE_RECYCLE:
+      name: '&dBottle Recycle'
+      position-in-gui: 13
+    HIDE_STREAM:
+      name: '&dHide Join Messages'
+      position-in-gui: 14
+    SAND_STACKING:
+      name: '&dSand Stacking Fix'
+      position-in-gui: 15
+    FACTION_LOGOUT:
+      name: '&dNo Enemy LogOut'
+      position-in-gui: 16
+    NO_WATER_REDSTONE:
+      name: '&dNo Water Redstone'
+      position-in-gui: 17
+    GAPPLE_COOLDOWN:
+      name: '&dGapple BeastCooldown'
+      position-in-gui: 18
+    NORMAL_GAPPLE_COOLDOWN:
+      name: '&dNormal Gapple BeastCooldown'
+      position-in-gui: 19
+    ENDERPEARL_COOLDOWN:
+      name: '&dEnderPearl BeastCooldown'
+      position-in-gui: 20
+    LAVA_SPONGE:
+      name: '&dLava Sponge'
+      position-in-gui: 21
+    WATER_SPONGE:
+      name: '&dWater Sponge'
+      position-in-gui: 22
+    EXPLODE_LAVA:
+      name: '&dExplode Lava'
+      position-in-gui: 23
+    ANTI_SCHEMATICA_BUG:
+      name: '&dNo Schematica Bug'
+      position-in-gui: 24
+    ANTI_FALL_DAMAGE:
+      name: '&dJellyLegs'
+      position-in-gui: 25
+    NO_WEATHER:
+      name: '&dNo Weather'
+      position-in-gui: 26
+    NO_ITEM_SPAWN:
+      name: '&dNo poppy flowers'
+      position-in-gui: 27
+    SERVER_PROTECTOR:
+      name: '&dServer Protector'
+      position-in-gui: 28
+    AUTO_CANNONS_LIMITER:
+      name: '&dAuto Cannons Limiter'
+      position-in-gui: 29
+    NO_BOOM:
+      name: '&dNo Explosions'
+      position-in-gui: 30
+    NO_BORDER_STACK:
+      name: '&dNo WorldBorder Stacking'
+      position-in-gui: 31
+    ANTI_VOID_FALL:
+      name: '&dAnti Void Fall'
+      position-in-gui: 32
+    NO_EXPLOSIONS_DAMAGE:
+      name: '&dNo Explosions Damage'
+      position-in-gui: 33
+    CANNON_PROTECTOR:
+      name: '&dNo cannon water'
+      position-in-gui: 34
+    WATERPROOF_BLAZES:
+      name: '&dWater Proof Blazes'
+      position-in-gui: 35
+    NO_WATER_FLOW_OUTSIDE_BORDER:
+      name: '&dNo Water Flow Outside Border'
+      position-in-gui: 36
+    IRONGOLEM_SPAWN_ON_FIRE:
+      name: '&dIron Golem Spawn On Fire'
+      position-in-gui: 37
+    NO_FLYING_PEARL:
+      name: '&dNo Flying Pearl'
+      position-in-gui: 38
+    NO_MCMMO_PISTON:
+      name: '&dNo mcmmo piston dupe'
+      position-in-gui: 39
+    COMBAT:
+      name: '&dCombat'
+      position-in-gui: 40
+    MERGER:
+      name: '&dMerger'
+      position-in-gui: 41
+    EDIT_DROPS:
+      name: '&dDrops'
+      position-in-gui: 42
+    ALERTS:
+      name: '&dAlerts'
+      position-in-gui: 43
+    LWANDS:
+      name: '&dLwands'
+      position-in-gui: 44
+    NOITEMCRAFT:
+      name: '&dNoItemCraft'
+      position-in-gui: 45
+    HOPPERFILTER:
+      name: '&dHopperFilter'
+      position-in-gui: 46
+    GRACE:
+      name: '&dGrace'
+      position-in-gui: 47
+    C_HOPPERS:
+      name: '&dCropHoppers'
+      position-in-gui: 48
+    M_HOPPERS:
+      name: '&dMobHoppers'
+      position-in-gui: 49
+    CHUNKBUSTER:
+      name: '&dChunkbuster'
+      position-in-gui: 50
+    VOID_CHEST:
+      name: '&dVoidChest'
+      position-in-gui: 51
+    FPS_BOOSTER:
+      name: '&dFPS Booster'
+      position-in-gui: 52
+    PRINTER_MODE:
+      name: '&dPrinter mode'
+      position-in-gui: 53
+    WITHDRAW_MONEY:
+      name: '&dMoney withdraw'
+      position-in-gui: 54
+    WILDERNESS:
+      name: '&dWilderness'
+      position-in-gui: 55
+    NO_ENEMY_TELEPORT:
+      name: '&dNo enemy teleport'
+      position-in-gui: 56

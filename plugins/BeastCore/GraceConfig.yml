@@ -1,0 +1,16 @@
+Grace-Period:
+  enabled: false
+  permission: grace-command
+  toggle-permission: btf.grace.toggle
+  no-permission: '&4&l(!) &cYou don´t have permission!'
+  not-enabled-message: '&4&l(!) &cGrace is not enabled!'
+  grace-enabled-message: '&aGrace period has started! Type &d/grace &ato see how much
+    time lefts!'
+  message: '&d&lGrace &7&f> &eGrace period will end in: &d&l{time_left}'
+  already-enabled: '&eGrace period is already enabled!'
+  left: 86400
+  end-message: '&d&lGrace &e> &fGrace period has ended, now you can use TNT!'
+  Explosions:
+    disabled: true
+  Auto-Save-Interval: 300
+  command-enabled: true

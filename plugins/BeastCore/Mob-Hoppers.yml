@@ -1,0 +1,34 @@
+Mob-Hoppers:
+  enabled: true
+  disabled-message: '&cCrop Hoppers are disabled!'
+  command:
+    enabled: true
+    permission: bfc.mobhoppers.give
+    no-permission-msg: '&C(!) You dont have permission!'
+    player-not-online: '&cThe player is not online!'
+    no-slot: '&cThe player has not a disponible slot!'
+    give-message: '&eYou gave &d{player} &e{number} &7mob hopper/s of &d{mob}!'
+    recieve-message: '&eYou recieved &d{number} &eMob hopper/s! of &d{mob}'
+    not-allowed-mob: '&c(!) &4{mob} &cis not a mob or is not in the allowed mobs list!'
+    formats:
+    - '&dUssage: '
+    - '&7- &6/mobhoppers give <player> <mob> <number>'
+  Item:
+    name: '&d{mob} hopper!'
+    lore:
+    - '&ePlace this hopper'
+    - '&eand collect all mob drops!'
+  Settings:
+    factions-mode: false
+    collect-radius-in-chunks: 2
+    place-permission: bfc.mobhoppers.place
+    break-permission: bfc.mobhoppers.break
+    mob-list:
+    - IRON_GOLEM
+    - COW
+    - ZOMBIE
+    - PIG_ZOMBIE
+    - SKELETON
+    - SPIDER
+    - BLAZE
+    - ALL

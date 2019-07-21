@@ -1,0 +1,6 @@
+command-Cooldowns:
+  Creeper:
+    beastCooldown: 30
+    bypass-permission: creeper.beastCooldown.bypass
+    on-beastCooldown-message: '&cYou cant use creeper command until the beastCooldown
+      ends: &e{cooldown_formatted}'

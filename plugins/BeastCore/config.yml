@@ -1,0 +1,224 @@
+# 
+#       ##########    ############    ###########
+#       #         #        #          #
+#       #########          #          ######        BY: BRUTALFISTING
+#       #        #         #          #
+#       #         #        #          #
+#       ##########         #          #
+Server-Protector:
+  enabled: true
+  bypass-permission: btf.cmdblock.bypass
+  block-syntaxis: true
+  message: '&4(!) &cYou can´t do that!'
+  Blocked-Commands:
+  - /?
+  - /¿
+  - '/pl '
+  - '/plugins '
+  - '/version '
+  - '/v '
+  - '/bukkit '
+  - '/a '
+  - '/about '
+  - '/icanhasbukkit '
+  - '/ver '
+  - '/plugman list '
+  - '/command_without_slash '
+  - 'command_without_slash '
+  - '/worldedit '
+  - //
+  - /help
+EnderPearl-BeastCooldown:
+  enabled: true
+  beastCooldown: 20
+  on-beastCooldown-message: '&7You must wait &d&l{beastCooldown} &7seconds until you
+    can use another &epearl&7!'
+  bypass-permission: btf.pearlcd.bypass
+  beastCooldown-ended: '&7Now you can throw another &dEnderPearl &7!'
+  excluded-worlds:
+  - EXCLUDED_WORLD_NAME
+  - EXCLUDED_WORLD_NAME_2
+Gapple-BeastCooldown:
+  enabled: true
+  beastCooldown: 300
+  beastCooldown-message: '&eYou must wait &6&l{beastCooldown} &euntil you can eat
+    another &6&lGapple&e!'
+  gapple-consumed: '&eYou ate a &6&lGapple &enow the &6&lcooldown&e starts!'
+  bypass-permission: btf.gapplecd.bypass
+  beastCooldown-ended: '&eYou may eat another &6Gapple&e!'
+  excluded-worlds:
+  - EXCLUDED_WORLD_NAME
+  - EXCLUDED_WORLD_NAME_2
+Normal-Gapple-BeastCooldown:
+  enabled: true
+  beastCooldown: 300
+  beastCooldown-message: '&eYou must wait &6&l{beastCooldown} &euntil you can eat
+    another &6&lGapple&e!'
+  gapple-consumed: '&eYou ate a &6&lGapple &enow the &6&lcooldown&e starts!'
+  bypass-permission: btf.ngapplecd.bypass
+  beastCooldown-ended: '&eYou may eat another &6Gapple&e!'
+  excluded-worlds:
+  - EXCLUDED_WORLD_NAME
+  - EXCLUDED_WORLD_NAME_2
+Anti-Spawner-Mine:
+  enabled: true
+  radius: 200.0
+  message: '&cYou can´t break spawners if there is an enemy in a &e{radius} &cradius!'
+  undetectable-permission: btf.spawners.undetectable
+  bypass-permission: btf.spawners.bypass
+Anti-Spawner-Guard:
+  enabled: true
+  radius: 1
+Commands:
+  Jelly-Legs:
+    enabled: true
+    permission: bfc.jellylegs
+    no-permission-msg: '&cYou dont have permission to use jellylegs command!'
+    enabled-message: '&aYou turned on jellyLegs!'
+    disabled-message: '&cYou turned off jellylegs!'
+  BtfCommand:
+    title: '&e&n---------------&6< &dBEAST FACTIONS CORE &6>&e&n---------------'
+    permission: btf.command
+    no-permission-msg: '&c(!) &4You dont have permission to use btf command!'
+    Formats:
+    - '&a - &d  /btf reloadConfigs &7Reloads the plugins config!'
+    - '&a - &d  /ct &7Combat tag main command!'
+    - '&a - &d  /hopperfilter &7Filter items in hoppers with a gui!'
+    - '&a - &d  /wilderness &7Teleports you to a random location!'
+    - '&a - &d  /smelt &7Smelts ores in your hand!'
+    - '&a - &d  /creeper &7Spawns a creeper at your location!'
+    - '&a - &d  /drops &7Edit mob drops with a gui!'
+    - '&a - &d  /grace &7Check how much time lefts to the grace period at the SOTW!'
+    - '&a - &d  /grace enable &7Enables the grace period!'
+    - '&a - &d  /grace disable &7Ends the grace period!'
+    - '&a - &d  /antiitemcraft &7Filter wich items can be crafted with a gui!'
+    enabled: true
+  Creeper:
+    permission: btf.creeper
+    message: '&aYou spawned a creeper!'
+    no-permission-msg: '&cYou don´t have permission!'
+    creeper-custom-name: '&6&l {player} &eCreeper´s'
+    cooldown-message: '&cYou can´t use this command until beastCooldown ends!  {beastCooldown} '
+    cooldown: 120
+    cooldown-ended: '&eNow you may use &a/Creeper &e again!'
+    enabled: true
+  Smelt:
+    permission: btf.smelt
+    message: '&aYou smelt the ores in your hand!'
+    not-an-ore: '&cThats not an ore!'
+    no-permission-msg: '&cYou don´t have permission!'
+    enabled: true
+  Reload:
+    permission: btf.reloadConfigs
+    message: '&aPlugin reloaded!'
+Anti-Wither:
+  enabled: true
+Anti-Schem-Bug:
+  enabled: true
+  message: '&cYou can´t build outside the world border!'
+Explode-Lava:
+  enabled: true
+Lava-Sponge:
+  enabled: true
+  radius: 3
+Water-Sponge:
+  enabled: true
+  radius: 3
+Anti-Weather:
+  enabled: true
+Anti-Water-Redstone:
+  enabled: true
+Sand-Stacking-Fix:
+  enabled: true
+  blocks:
+  - ENCHANTMENT_TABLE
+  - SOUL_SAND
+  - BED
+  - CHEST
+  - TRAPPED_CHEST
+  - BREWING_STAND
+Faction-Logout:
+  enabled: true
+  bypass-permission: btf.enemy.logout
+Hide-Stream:
+  enabled: true
+Pearl-Glitch-Fix:
+  enabled: true
+  message: '&cYou can´t throw an enderpearl there!'
+Deny-Enderpearl-Outside-Border:
+  enabled: true
+  message: '&cYou can´t throw enderpearls outside the border!'
+  bypass-permission: btf.border.pearl
+Anti-fly-Pearl:
+  enabled: true
+  message: '&cYou can´t throw pearls while flying!'
+  bypass-permission: btf.flypearl.bypass
+Anti-Item-burn:
+  enabled: true
+Irongolem-Fast-Death:
+  enabled: true
+  damage: 200
+Anti-Horse-Mount:
+  enabled: true
+  message: '&cYou can´t ride horses!'
+  bypass-permission: btf.mount.bypass
+No-Enemy-Teleport:
+  enabled: true
+  message: '&cYou can´t teleport to enemy land!'
+  bypass-permission: btf.enemytp.bypass
+Anti-Creeper-Glitch:
+  enabled: true
+Anti-Boat-Place:
+  enabled: true
+  message: '&cBoats are disabled!'
+  bypass-permission: btf.boatplace.bypass
+Bottle-Recycling:
+  enabled: true
+  send-message: true
+  message: '&d&lPotions &7>&8> The bottle of the potion has been recycled!'
+  permission: btf.recycle
+Deny-Item-Spawn:
+  enabled: true
+  items:
+  - 38
+Auto-Cannons-Limiter:
+  enabled: true
+  max-high: 20
+No-Explosions:
+  enabled: false
+Prevent-Sand-Stacking-In-Worldborder:
+  enabled: true
+Anti-Void-Falling:
+  enabled: true
+  command-permission: btf.antivoidspawn.command
+  message: '&aAnti void spawn successfully set!'
+  no-permission: '&4(!) &cYou dont have permission to do this!'
+  spawn:
+    world: world
+    x: '0'
+    y: '100'
+    z: '0'
+  denied-worlds:
+  - DENIED_WORLD_NAME
+  command-enabled: true
+No-Explosions-Damage:
+  enabled: true
+  permission: btf.notntdamage
+Cannon-Protector:
+  enabled: true
+Water-Proof-Blazes:
+  enabled: true
+Iron-Golem-Spawn-On-Fire:
+  enabled: false
+No-Water-Flow-Outside-Border:
+  enabled: true
+No-Flying-Pearl:
+  enabled: true
+  bypass-permission: btf.nfp.bypass
+  message: '&4(!) &cYou can´t throw enderpearls while flying!'
+No-Piston-McMMO:
+  enabled: true
+  listed-blocks:
+  - CACTUS
+  - SUGAR_CANE_BLOCK
+  - CROPS

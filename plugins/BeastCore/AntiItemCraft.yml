@@ -1,0 +1,33 @@
+Anti-Item-Craft:
+  message: '&cYou cant craft &e{item}'
+  enabled: true
+  command:
+    enabled: true
+    permission: btf.antiitemcraft.command
+    no-permission-msg: '&4(!) &cYou don´t have permission!'
+  menu:
+    save-message: '&aFilter saved!'
+    toggle-button:
+      material: BOOK
+      name: '&dEnabled'
+      damage: '0'
+      lore-enabled:
+      - '&eEnabled'
+      lore-disabled:
+      - '&cDisabled'
+      position: 51
+    save-button:
+      material: EMERALD
+      name: '&aSave filter'
+      damage: '0'
+      lore: &id001 []
+      position: 52
+    close-button:
+      material: REDSTONE_BLOCK
+      name: '&CClose'
+      damage: '0'
+      lore: *id001
+      position: 53
+    gui-title: '&dAnti Item Craft Filter'
+    gui-size: 54
+  filtered-items: *id001

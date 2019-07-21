@@ -1,0 +1,44 @@
+TnT-Fill:
+  command:
+    enabled: true
+    formats:
+    - '&dDefault radius command: &e/tntfill <amount>'
+    - '&dCustom radius command: &e/tntfill &a<radius> &a<amount>'
+    - '&dFull fill: &e/tntfill &a<radius> &afull'
+    permission: btf.tntfill.use
+    full-fill-permission: btf.fullfill.use
+    custom-radius-fill-permission: btf.customradiusfill.use
+    no-permission-msg: '&c(!) &4You dont have permission!'
+    invalid-radius: '&c(!) &4Introduce a valid number for the radius!'
+    invalid-amount: '&c(!) &4Introduce a valid amount of TnT!'
+    too-much-tnt: '&c(!) &4The maximun TNT allowed is &e576 &4!'
+    no-tnt-in-inventory: '&c(!) &4You dont have any TNT in your inventory!'
+    max-radius-reached: '&c(!) &4The max radius allowed is &e{max_radius}!'
+    max-radius-bypass-permission: btf.tntfill.maxradius.bypass
+    no-near-dispensers: '&4(!) &cThere are no near dispensers!'
+    filled-message: '&aYou have filled &e{number} &adispensers!'
+  Settings:
+    max-radius: 100
+    default-fill-radius: 16
+TnT-Unfill:
+  command:
+    enabled: true
+    permission: btf.tntunfill.use
+    no-permission-msg: '&c(!) &4You dont have permission to do that!'
+    full-unfill-permission: btf.tntfullunfill.use
+    custom-radius-unfill-permission: btf.customradius.tntunfill
+    invalid-radius: '&c(!) &4Introduce a valid number for the radius!'
+    invalid-amount: '&c(!) &4Introduce a valid amount of TnT!'
+    no-near-dispensers: '&4(!) &cThere are no near dispensers!'
+    max-radius-reached: '&c(!) &4The max radius allowed is &e{max_radius}!'
+    max-radius-bypass-permission: btf.tntfill.maxradius.bypass
+    unfilled-message: '&aYou have unfilled &e{number} &adispensers!'
+    no-dispensers-with-tnt: '&cThere is no dispenser with tnt in the radius!'
+    formats:
+    - '&eUssage default radius: &7/tntunfill <amount>'
+    - '&eUssage custom radius: &7/tntunfill <radius> <amount>'
+    - '&eUssage admin mode: &7/tntunfill all <radius>'
+  Settings:
+    max-radius: 100
+    default-unfill-radius: 16
+    factions-mode: false

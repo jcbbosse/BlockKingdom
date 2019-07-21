@@ -1,0 +1,25 @@
+Lightning-Tools:
+  enabled: true
+  disabled-message: '&c(!)&4Lightning wands are disabled!'
+  Tool:
+    Material: BLAZE_ROD
+    Name: '&eLightning Wand'
+    Lore:
+    - '&bUse this litghtning wand'
+    - '&bTo strike like zeus!'
+    Allowed-Entities-List:
+    - PLAYER
+    - CREEPER
+    - SPIDER
+  command:
+    enabled: true
+    permission: btf.lighting.give
+    message: '&dThe gods of the server gave you a lighting wand! You lucky son of
+      a *****'
+    no-permission: '&4(!) &cAh ah ah you didn''t say the magic word!'
+    player-not-online: '&4(!) &cThat player is not online or does not exists!'
+    format: '&dUssage: &e/lt give <player> <amount>'
+  BeastCooldown:
+    beastCooldown-time: 30
+    on-beastCooldown-message: '&4(!) You cannot use that until the beastCooldown ends!
+      BeastCooldown: &e{beastCooldown}'

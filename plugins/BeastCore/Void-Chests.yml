@@ -1,0 +1,37 @@
+Void-Chests:
+  enabled: true
+  use-essentials-worth: false
+  use-shop-gui-plus-worth: false
+  disabled-message: '&c(!) &4Void chests are disabled!'
+  use-default-sell-system-if-others-fail: false
+  command:
+    enabled: true
+    permission: btf.voidchest.give
+    no-permission-msg: '&c(!) &4You dont have permission!'
+    offline-player: '&cPlayer is offline!'
+    inventory-full: '&cPlayers inventory has not an empty slot!'
+    give-message: '&eYou gave &c{player} &a{number} &evoid chest/s!'
+    recieve-message: '&eYou recieved &c{number} &evoid chest/s!'
+    formats:
+    - '&7- &e/voidchest give <player> <number>'
+  Item:
+    name: '&cVoid &7Chest'
+    lore:
+    - '&eAutomatically sell items inside'
+  Settings:
+    break-permission: bfc.voidchest.break
+    no-break-permission-msg: '&c(!) &4You dont have permission to break void chests!'
+    place-permission: bfc.voidchest.place
+    no-place-permission-msg: '&c(!) &4You dont have permission to place void chests!'
+    sell-time: 30
+  Life-Time:
+    enabled: false
+    max-life-time-in-seconds: 86400
+    remove-chest: true
+  Interact-Messages:
+    get-chest-owners-name-message: '&7The void chest you clicked is owned by: &c{player}'
+  Holograms:
+    enabled: false
+    hologram-lines:
+    - '&7Void chest owned by: &c{player}'
+    - '&eLife Time: &c{life_time}'

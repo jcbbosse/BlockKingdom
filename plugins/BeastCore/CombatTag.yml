@@ -1,0 +1,110 @@
+Combat-Tag:
+  command:
+    Permission: bfc.combat
+    gui-permission: bfc.gui.combat
+    No-Permission: '&c(!) &4You dont have permission to use this command!'
+    enabled: true
+  enabled: true
+  trigger-combat-with-mobs: false
+  disabled-message: '&cCombat tag is disabled!'
+  duration: 20
+  message: '&d&lCombat &7>&8> &e{beastCooldown} &8seconds&8!'
+  not-in-combat: '&d&lCombat &7>&8> You are not in combat!'
+  bypass-permission: btf.combat.bypass
+  denied-command: '&d&lCombat &7>&8> You can´t use that command while in combat!'
+  whitelist-mode: true
+  whithelisted-commands:
+  - /tpyes
+  - /etpyes
+  - /tpaccept
+  - /etpaccept
+  - /tpahere
+  - /fix *
+  blacklist-mode: false
+  blacklisted-commands:
+  - /tpyes
+  - /etpyes
+  - /tpaccept
+  - /etpaccept
+  - /tpahere
+  - /fix *
+  cancel-fly: true
+  combat-started: '&d&lCombate &7>&8> You are in combat, don´t log out!'
+  no-longer-in-combat: '&d&lCombat &7>&8> Now you are not in combat!'
+  allow-enderpearls-in-combat: true
+  enderpearls-not-allowed-in-combat-message: '&cYou cant use ender pearls whilst you
+    are in combat!'
+  reset-on-enderpearl: true
+  disable-teleport: true
+  no-teleport-in-combat: '&cYou can´t teleport while in combat!!'
+  gui:
+    title: '&eCombat Tag Settings'
+    size: 54
+    fill-with-spacers: true
+    Buttons:
+      Toggle-Button:
+        name: '&eToggle'
+        material: BOOK
+        damage: 0
+        position-in-gui: 53
+        enabled-lore: &id001
+        - '&aEnabled'
+        disabled-lore: &id002
+        - '&cDisabled'
+      Close-Button:
+        name: '&cClose'
+        material: REDSTONE_BLOCK
+        damage: 0
+        position-in-gui: 53
+        lore: []
+      Back-Button:
+        name: '&eBack'
+        material: ARROW
+        damage: 0
+        position-in-gui: 53
+        lore: []
+      Save-Button:
+        name: '&aSave'
+        material: BOOK
+        damage: 0
+        position-in-gui: 52
+        lore: []
+      Denied-Blocks-Button:
+        name: '&eDenied blocks'
+        material: BEDROCK
+        damage: 0
+        position-in-gui: 13
+        lore:
+        - '&7Open a gui where you can place'
+        - '&7the blocks that players wont'
+        - '&7be able to place while in combat!'
+      Cancel-Fly-Button:
+        name: '&eCancel Fly in combat'
+        material: FEATHER
+        damage: 0
+        position-in-gui: 21
+        enabled-lore: *id001
+        disabled-lore: *id002
+      Reset-On-Pearl-Button:
+        name: '&eReset combat tag on pearl throw'
+        material: ENDER_PEARL
+        damage: 0
+        position-in-gui: 23
+        enabled-lore: *id001
+        disabled-lore: *id002
+      Combat-Duration-Button:
+        name: '&eCombat duration'
+        material: CLOCK
+        damage: 0
+        position-in-gui: 31
+        lore:
+        - '&eActual duration: &c{combat_duration}'
+        - '&6Increase by left click: &c{increase_by_click}'
+        - '&eDecrease by right click: &c{decrease_by_click}'
+        increase-by-click: 5
+        decrease-by-click: 5
+      Spacer-Button:
+        material: BLACK_STAINED_GLASS_PANE
+        damage: 0
+  Blocked-Item-Message: '&cYou cant place this block while in combat!'
+  Blocked-Items: []

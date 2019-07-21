@@ -7,10 +7,10 @@
   "maxLogBlocksPerCut": 90,
   "delay": 0,
   "cuttingSpeed": {
-    "LEGACY_WOOD_AXE": 4,
+    "LEGACY_IRON_AXE": 1,
+    "LEGACY_DIAMOND_AXE": 0,
     "LEGACY_GOLD_AXE": 1,
     "LEGACY_STONE_AXE": 3,
-    "LEGACY_IRON_AXE": 1,
-    "LEGACY_DIAMOND_AXE": 0
+    "LEGACY_WOOD_AXE": 4
   }
 }

@@ -1,0 +1,51 @@
+enabled: true
+Settings:
+  use-essentials-woths: false
+  use-shop-gui-plus-woths: false
+  nearby-enemy-radius: 32
+  allow-printer-only-in-own-land: true
+  no-fall-damage-on-printer-disable: true
+  no-fall-damage-time: 30
+  use-default-sell-system-if-others-fail: false
+  Messages:
+    you-cant-break-in-printer-mode: '&cYou cant break blocks in printer mode!'
+    cant-teleport-in-printer-mode: '&cYou cant teleport while in printer mode!'
+    cant-drop-items: '&cYou cant drop items in printer mode!'
+    you-dont-have-money: '&cYou dont have enought money!'
+    nearby-enemy: '&cThere is a nearby enemy!'
+    you-cant-open-inventories: '&cYou cant open inventories while in printer mode!'
+    block-is-not-in-shop: '&c(!)&4 The block you tried to place is not in the shop!'
+    cant-place-that-block: '&c(!) &4You cannot place that block!'
+    blocked-interaction: '&cYou tried to interact with a blacklisted block!'
+    blocked-command: '&cThat command is blocked while in printer mode!'
+    take-off-armor: '&cYou cant enter into printer mode if you are wearing an armour
+      equipment!'
+  blacklisted-blocks:
+  - BEDROCK
+  - DRAGON_EGG
+  - SPAWNER
+  interact-blacklisted-blocks:
+  - ITEM_FRAME
+  Blocked-All-Commands: true
+  Blocked-Commands:
+  - auction
+  - ah
+  - auctionhouse
+  interact-blacklisted-entities:
+  - ITEM_FRAME
+  interact-blacklisted-items-in-hand:
+  - CREEPER_SPAWN_EGG
+  - EXPERIENCE_BOTTLE
+  disable-item-pickup: true
+  deny-if-is-wearing-armour: true
+command:
+  permission: bfc.printer.use
+  no-permission-msg: '&c(!) &4You dont have permission!'
+  enabled: true
+  Messages:
+    enabled: '&aPrinter enabled!'
+    disabled: '&cPrinter Disabled!'
+    format: '&eCommand use: &7/printer on/off'
+    already-enabled: '&eYou have the printer mode already enabled!'
+    already-disabled: '&eYou have the printer mode already disabled!'
+    only-in-your-faction-land: '&cYou only can use printer in your factions land!'

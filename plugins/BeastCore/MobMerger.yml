@@ -1,0 +1,55 @@
+Mob-Merger:
+  world-blacklist:
+  - BLACKLISTED_WORLD_NAME
+  enabled: true
+  radius: 16
+  disable-egg-mobs-merge: false
+  custom-mob-name: '&e{number} &cX &d{mob_type}'
+  whitelist-mode: false
+  blacklist-mode: true
+  whitelist:
+  - VILLAGER
+  - WOLF
+  blacklist:
+  - VILLAGER
+  - WOLF
+  max-stack-size: 20
+  Kill-Full-Stack:
+    enabled: true
+    multiply-drops: true
+    damage-sources:
+    - FIRE
+    - FALL
+  Block-Plugin-Spawned-Mobs-Being-Merged: true
+  Stack-Only-Spawner-Mobs: false
+  Spawn-Only-Mobs-From-Spawners: false
+  per-mob-max-stack-sizes:
+    enabled: false
+    list:
+      ZOMBIE: 15
+      SKELETON: 25
+      COW: 50
+  max-stacks-per-chunk: 16
+  kill-all-mobs-when-reached-max-total-stacks: true
+  max-total-stacks: 6000
+command:
+  permission: btf.killmerged.cmd
+  no-permission-msg: '&4(!) &cYou dont have permission!'
+  killed-all-msg: '&dYou killed &7{number_killed} &dstacks of mobs!'
+  enabled: true
+Passive-Mobs:
+  enabled: false
+  spawn-methods:
+  - SPAWNER_EGG
+  - SPAWNER
+  - NATURAL
+  list-of-pasive-mobs:
+  - BLAZE
+  - ZOMBIE
+  - SPIDER
+  - CREEPER
+Mobs-Health:
+  enabled: false
+  per-mob-health:
+    ZOMBIE: 5
+    IRON_GOLEM: 10

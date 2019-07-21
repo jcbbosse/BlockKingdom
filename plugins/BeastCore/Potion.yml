@@ -1,0 +1,15 @@
+available-potion-types: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/potion/PotionEffectType.html
+Commands:
+  Potions:
+    base-permission: btf.potion.command
+    no-permission-msg: '&cYou dont have the base permission!'
+    format-message: '&7/pot &e{potion_name}'
+    potion-not-listed: '&cThe potion &7{name} &cis not allowed!'
+    Pot-List:
+      SPEED:
+        permission: btf.speed.potion
+        no-permission-msg: '&cYou dont have permission to use potion speed!'
+        duration: 20
+        level: 2
+        message: '&eYou used speed potion!'
+    enabled: true

@@ -1,0 +1,2902 @@
+Item-Worths:
+  ACACIA_BOAT:
+    damage: 0
+    price: 10
+  ACACIA_BUTTON:
+    damage: 0
+    price: 10
+  ACACIA_DOOR:
+    damage: 0
+    price: 10
+  ACACIA_FENCE:
+    damage: 0
+    price: 10
+  ACACIA_FENCE_GATE:
+    damage: 0
+    price: 10
+  ACACIA_LEAVES:
+    damage: 0
+    price: 10
+  ACACIA_LOG:
+    damage: 0
+    price: 10
+  ACACIA_PLANKS:
+    damage: 0
+    price: 10
+  ACACIA_PRESSURE_PLATE:
+    damage: 0
+    price: 10
+  ACACIA_SAPLING:
+    damage: 0
+    price: 10
+  ACACIA_SIGN:
+    damage: 0
+    price: 10
+  ACACIA_SLAB:
+    damage: 0
+    price: 10
+  ACACIA_STAIRS:
+    damage: 0
+    price: 10
+  ACACIA_TRAPDOOR:
+    damage: 0
+    price: 10
+  ACACIA_WALL_SIGN:
+    damage: 0
+    price: 10
+  ACACIA_WOOD:
+    damage: 0
+    price: 10
+  ACTIVATOR_RAIL:
+    damage: 0
+    price: 10
+  ALLIUM:
+    damage: 0
+    price: 10
+  ANDESITE:
+    damage: 0
+    price: 10
+  ANDESITE_SLAB:
+    damage: 0
+    price: 10
+  ANDESITE_STAIRS:
+    damage: 0
+    price: 10
+  ANDESITE_WALL:
+    damage: 0
+    price: 10
+  ANVIL:
+    damage: 0
+    price: 10
+  APPLE:
+    damage: 0
+    price: 10
+  ARMOR_STAND:
+    damage: 0
+    price: 10
+  ARROW:
+    damage: 0
+    price: 10
+  ATTACHED_MELON_STEM:
+    damage: 0
+    price: 10
+  ATTACHED_PUMPKIN_STEM:
+    damage: 0
+    price: 10
+  AZURE_BLUET:
+    damage: 0
+    price: 10
+  BAKED_POTATO:
+    damage: 0
+    price: 10
+  BAMBOO:
+    damage: 0
+    price: 10
+  BAMBOO_SAPLING:
+    damage: 0
+    price: 10
+  BARREL:
+    damage: 0
+    price: 10
+  BARRIER:
+    damage: 0
+    price: 10
+  BAT_SPAWN_EGG:
+    damage: 0
+    price: 10
+  BEACON:
+    damage: 0
+    price: 10
+  BEDROCK:
+    damage: 0
+    price: 10
+  BEEF:
+    damage: 0
+    price: 10
+  BEETROOT:
+    damage: 0
+    price: 10
+  BEETROOTS:
+    damage: 0
+    price: 10
+  BEETROOT_SEEDS:
+    damage: 0
+    price: 10
+  BEETROOT_SOUP:
+    damage: 0
+    price: 10
+  BELL:
+    damage: 0
+    price: 10
+  BIRCH_BOAT:
+    damage: 0
+    price: 10
+  BIRCH_BUTTON:
+    damage: 0
+    price: 10
+  BIRCH_DOOR:
+    damage: 0
+    price: 10
+  BIRCH_FENCE:
+    damage: 0
+    price: 10
+  BIRCH_FENCE_GATE:
+    damage: 0
+    price: 10
+  BIRCH_LEAVES:
+    damage: 0
+    price: 10
+  BIRCH_LOG:
+    damage: 0
+    price: 10
+  BIRCH_PLANKS:
+    damage: 0
+    price: 10
+  BIRCH_PRESSURE_PLATE:
+    damage: 0
+    price: 10
+  BIRCH_SAPLING:
+    damage: 0
+    price: 10
+  BIRCH_SIGN:
+    damage: 0
+    price: 10
+  BIRCH_SLAB:
+    damage: 0
+    price: 10
+  BIRCH_STAIRS:
+    damage: 0
+    price: 10
+  BIRCH_TRAPDOOR:
+    damage: 0
+    price: 10
+  BIRCH_WALL_SIGN:
+    damage: 0
+    price: 10
+  BIRCH_WOOD:
+    damage: 0
+    price: 10
+  BLACK_BANNER:
+    damage: 0
+    price: 10
+  BLACK_BED:
+    damage: 0
+    price: 10
+  BLACK_CARPET:
+    damage: 0
+    price: 10
+  BLACK_CONCRETE:
+    damage: 0
+    price: 10
+  BLACK_CONCRETE_POWDER:
+    damage: 0
+    price: 10
+  BLACK_DYE:
+    damage: 0
+    price: 10
+  BLACK_GLAZED_TERRACOTTA:
+    damage: 0
+    price: 10
+  BLACK_SHULKER_BOX:
+    damage: 0
+    price: 10
+  BLACK_STAINED_GLASS:
+    damage: 0
+    price: 10
+  BLACK_STAINED_GLASS_PANE:
+    damage: 0
+    price: 10
+  BLACK_TERRACOTTA:
+    damage: 0
+    price: 10
+  BLACK_WALL_BANNER:
+    damage: 0
+    price: 10
+  BLACK_WOOL:
+    damage: 0
+    price: 10
+  BLAST_FURNACE:
+    damage: 0
+    price: 10
+  BLAZE_POWDER:
+    damage: 0
+    price: 10
+  BLAZE_ROD:
+    damage: 0
+    price: 10
+  BLAZE_SPAWN_EGG:
+    damage: 0
+    price: 10
+  BLUE_BANNER:
+    damage: 0
+    price: 10
+  BLUE_BED:
+    damage: 0
+    price: 10
+  BLUE_CARPET:
+    damage: 0
+    price: 10
+  BLUE_CONCRETE:
+    damage: 0
+    price: 10
+  BLUE_CONCRETE_POWDER:
+    damage: 0
+    price: 10
+  BLUE_DYE:
+    damage: 0
+    price: 10
+  BLUE_GLAZED_TERRACOTTA:
+    damage: 0
+    price: 10
+  BLUE_ICE:
+    damage: 0
+    price: 10
+  BLUE_ORCHID:
+    damage: 0
+    price: 10
+  BLUE_SHULKER_BOX:
+    damage: 0
+    price: 10
+  BLUE_STAINED_GLASS:
+    damage: 0
+    price: 10
+  BLUE_STAINED_GLASS_PANE:
+    damage: 0
+    price: 10
+  BLUE_TERRACOTTA:
+    damage: 0
+    price: 10
+  BLUE_WALL_BANNER:
+    damage: 0
+    price: 10
+  BLUE_WOOL:
+    damage: 0
+    price: 10
+  BONE:
+    damage: 0
+    price: 10
+  BONE_BLOCK:
+    damage: 0
+    price: 10
+  BONE_MEAL:
+    damage: 0
+    price: 10
+  BOOK:
+    damage: 0
+    price: 10
+  BOOKSHELF:
+    damage: 0
+    price: 10
+  BOW:
+    damage: 0
+    price: 10
+  BOWL:
+    damage: 0
+    price: 10
+  BRAIN_CORAL:
+    damage: 0
+    price: 10
+  BRAIN_CORAL_BLOCK:
+    damage: 0
+    price: 10
+  BRAIN_CORAL_FAN:
+    damage: 0
+    price: 10
+  BRAIN_CORAL_WALL_FAN:
+    damage: 0
+    price: 10
+  BREAD:
+    damage: 0
+    price: 10
+  BREWING_STAND:
+    damage: 0
+    price: 10
+  BRICK:
+    damage: 0
+    price: 10
+  BRICKS:
+    damage: 0
+    price: 10
+  BRICK_SLAB:
+    damage: 0
+    price: 10
+  BRICK_STAIRS:
+    damage: 0
+    price: 10
+  BRICK_WALL:
+    damage: 0
+    price: 10
+  BROWN_BANNER:
+    damage: 0
+    price: 10
+  BROWN_BED:
+    damage: 0
+    price: 10
+  BROWN_CARPET:
+    damage: 0
+    price: 10
+  BROWN_CONCRETE:
+    damage: 0
+    price: 10
+  BROWN_CONCRETE_POWDER:
+    damage: 0
+    price: 10
+  BROWN_DYE:
+    damage: 0
+    price: 10
+  BROWN_GLAZED_TERRACOTTA:
+    damage: 0
+    price: 10
+  BROWN_MUSHROOM:
+    damage: 0
+    price: 10
+  BROWN_MUSHROOM_BLOCK:
+    damage: 0
+    price: 10
+  BROWN_SHULKER_BOX:
+    damage: 0
+    price: 10
+  BROWN_STAINED_GLASS:
+    damage: 0
+    price: 10
+  BROWN_STAINED_GLASS_PANE:
+    damage: 0
+    price: 10
+  BROWN_TERRACOTTA:
+    damage: 0
+    price: 10
+  BROWN_WALL_BANNER:
+    damage: 0
+    price: 10
+  BROWN_WOOL:
+    damage: 0
+    price: 10
+  BUBBLE_COLUMN:
+    damage: 0
+    price: 10
+  BUBBLE_CORAL:
+    damage: 0
+    price: 10
+  BUBBLE_CORAL_BLOCK:
+    damage: 0
+    price: 10
+  BUBBLE_CORAL_FAN:
+    damage: 0
+    price: 10
+  BUBBLE_CORAL_WALL_FAN:
+    damage: 0
+    price: 10
+  BUCKET:
+    damage: 0
+    price: 10
+  CACTUS:
+    damage: 0
+    price: 10
+  CAKE:
+    damage: 0
+    price: 10
+  CAMPFIRE:
+    damage: 0
+    price: 10
+  CARROT:
+    damage: 0
+    price: 10
+  CARROTS:
+    damage: 0
+    price: 10
+  CARROT_ON_A_STICK:
+    damage: 0
+    price: 10
+  CARTOGRAPHY_TABLE:
+    damage: 0
+    price: 10
+  CARVED_PUMPKIN:
+    damage: 0
+    price: 10
+  CAT_SPAWN_EGG:
+    damage: 0
+    price: 10
+  CAULDRON:
+    damage: 0
+    price: 10
+  CAVE_AIR:
+    damage: 0
+    price: 10
+  CAVE_SPIDER_SPAWN_EGG:
+    damage: 0
+    price: 10
+  CHAINMAIL_BOOTS:
+    damage: 0
+    price: 10
+  CHAINMAIL_CHESTPLATE:
+    damage: 0
+    price: 10
+  CHAINMAIL_HELMET:
+    damage: 0
+    price: 10
+  CHAINMAIL_LEGGINGS:
+    damage: 0
+    price: 10
+  CHAIN_COMMAND_BLOCK:
+    damage: 0
+    price: 10
+  CHARCOAL:
+    damage: 0
+    price: 10
+  CHEST:
+    damage: 0
+    price: 10
+  CHEST_MINECART:
+    damage: 0
+    price: 10
+  CHICKEN:
+    damage: 0
+    price: 10
+  CHICKEN_SPAWN_EGG:
+    damage: 0
+    price: 10
+  CHIPPED_ANVIL:
+    damage: 0
+    price: 10
+  CHISELED_QUARTZ_BLOCK:
+    damage: 0
+    price: 10
+  CHISELED_RED_SANDSTONE:
+    damage: 0
+    price: 10
+  CHISELED_SANDSTONE:
+    damage: 0
+    price: 10
+  CHISELED_STONE_BRICKS:
+    damage: 0
+    price: 10
+  CHORUS_FLOWER:
+    damage: 0
+    price: 10
+  CHORUS_FRUIT:
+    damage: 0
+    price: 10
+  CHORUS_PLANT:
+    damage: 0
+    price: 10
+  CLAY:
+    damage: 0
+    price: 10
+  CLAY_BALL:
+    damage: 0
+    price: 10
+  CLOCK:
+    damage: 0
+    price: 10
+  COAL:
+    damage: 0
+    price: 10
+  COAL_BLOCK:
+    damage: 0
+    price: 10
+  COAL_ORE:
+    damage: 0
+    price: 10
+  COARSE_DIRT:
+    damage: 0
+    price: 10
+  COBBLESTONE:
+    damage: 0
+    price: 10
+  COBBLESTONE_SLAB:
+    damage: 0
+    price: 10
+  COBBLESTONE_STAIRS:
+    damage: 0
+    price: 10
+  COBBLESTONE_WALL:
+    damage: 0
+    price: 10
+  COBWEB:
+    damage: 0
+    price: 10
+  COCOA:
+    damage: 0
+    price: 10
+  COCOA_BEANS:
+    damage: 0
+    price: 10
+  COD:
+    damage: 0
+    price: 10
+  COD_BUCKET:
+    damage: 0
+    price: 10
+  COD_SPAWN_EGG:
+    damage: 0
+    price: 10
+  COMMAND_BLOCK:
+    damage: 0
+    price: 10
+  COMMAND_BLOCK_MINECART:
+    damage: 0
+    price: 10
+  COMPARATOR:
+    damage: 0
+    price: 10
+  COMPASS:
+    damage: 0
+    price: 10
+  COMPOSTER:
+    damage: 0
+    price: 10
+  CONDUIT:
+    damage: 0
+    price: 10
+  COOKED_BEEF:
+    damage: 0
+    price: 10
+  COOKED_CHICKEN:
+    damage: 0
+    price: 10
+  COOKED_COD:
+    damage: 0
+    price: 10
+  COOKED_MUTTON:
+    damage: 0
+    price: 10
+  COOKED_PORKCHOP:
+    damage: 0
+    price: 10
+  COOKED_RABBIT:
+    damage: 0
+    price: 10
+  COOKED_SALMON:
+    damage: 0
+    price: 10
+  COOKIE:
+    damage: 0
+    price: 10
+  CORNFLOWER:
+    damage: 0
+    price: 10
+  COW_SPAWN_EGG:
+    damage: 0
+    price: 10
+  CRACKED_STONE_BRICKS:
+    damage: 0
+    price: 10
+  CRAFTING_TABLE:
+    damage: 0
+    price: 10
+  CREEPER_BANNER_PATTERN:
+    damage: 0
+    price: 10
+  CREEPER_HEAD:
+    damage: 0
+    price: 10
+  CREEPER_SPAWN_EGG:
+    damage: 0
+    price: 10
+  CREEPER_WALL_HEAD:
+    damage: 0
+    price: 10
+  CROSSBOW:
+    damage: 0
+    price: 10
+  CUT_RED_SANDSTONE:
+    damage: 0
+    price: 10
+  CUT_RED_SANDSTONE_SLAB:
+    damage: 0
+    price: 10
+  CUT_SANDSTONE:
+    damage: 0
+    price: 10
+  CUT_SANDSTONE_SLAB:
+    damage: 0
+    price: 10
+  CYAN_BANNER:
+    damage: 0
+    price: 10
+  CYAN_BED:
+    damage: 0
+    price: 10
+  CYAN_CARPET:
+    damage: 0
+    price: 10
+  CYAN_CONCRETE:
+    damage: 0
+    price: 10
+  CYAN_CONCRETE_POWDER:
+    damage: 0
+    price: 10
+  CYAN_DYE:
+    damage: 0
+    price: 10
+  CYAN_GLAZED_TERRACOTTA:
+    damage: 0
+    price: 10
+  CYAN_SHULKER_BOX:
+    damage: 0
+    price: 10
+  CYAN_STAINED_GLASS:
+    damage: 0
+    price: 10
+  CYAN_STAINED_GLASS_PANE:
+    damage: 0
+    price: 10
+  CYAN_TERRACOTTA:
+    damage: 0
+    price: 10
+  CYAN_WALL_BANNER:
+    damage: 0
+    price: 10
+  CYAN_WOOL:
+    damage: 0
+    price: 10
+  DAMAGED_ANVIL:
+    damage: 0
+    price: 10
+  DANDELION:
+    damage: 0
+    price: 10
+  DARK_OAK_BOAT:
+    damage: 0
+    price: 10
+  DARK_OAK_BUTTON:
+    damage: 0
+    price: 10
+  DARK_OAK_DOOR:
+    damage: 0
+    price: 10
+  DARK_OAK_FENCE:
+    damage: 0
+    price: 10
+  DARK_OAK_FENCE_GATE:
+    damage: 0
+    price: 10
+  DARK_OAK_LEAVES:
+    damage: 0
+    price: 10
+  DARK_OAK_LOG:
+    damage: 0
+    price: 10
+  DARK_OAK_PLANKS:
+    damage: 0
+    price: 10
+  DARK_OAK_PRESSURE_PLATE:
+    damage: 0
+    price: 10
+  DARK_OAK_SAPLING:
+    damage: 0
+    price: 10
+  DARK_OAK_SIGN:
+    damage: 0
+    price: 10
+  DARK_OAK_SLAB:
+    damage: 0
+    price: 10
+  DARK_OAK_STAIRS:
+    damage: 0
+    price: 10
+  DARK_OAK_TRAPDOOR:
+    damage: 0
+    price: 10
+  DARK_OAK_WALL_SIGN:
+    damage: 0
+    price: 10
+  DARK_OAK_WOOD:
+    damage: 0
+    price: 10
+  DARK_PRISMARINE:
+    damage: 0
+    price: 10
+  DARK_PRISMARINE_SLAB:
+    damage: 0
+    price: 10
+  DARK_PRISMARINE_STAIRS:
+    damage: 0
+    price: 10
+  DAYLIGHT_DETECTOR:
+    damage: 0
+    price: 10
+  DEAD_BRAIN_CORAL:
+    damage: 0
+    price: 10
+  DEAD_BRAIN_CORAL_BLOCK:
+    damage: 0
+    price: 10
+  DEAD_BRAIN_CORAL_FAN:
+    damage: 0
+    price: 10
+  DEAD_BRAIN_CORAL_WALL_FAN:
+    damage: 0
+    price: 10
+  DEAD_BUBBLE_CORAL:
+    damage: 0
+    price: 10
+  DEAD_BUBBLE_CORAL_BLOCK:
+    damage: 0
+    price: 10
+  DEAD_BUBBLE_CORAL_FAN:
+    damage: 0
+    price: 10
+  DEAD_BUBBLE_CORAL_WALL_FAN:
+    damage: 0
+    price: 10
+  DEAD_BUSH:
+    damage: 0
+    price: 10
+  DEAD_FIRE_CORAL:
+    damage: 0
+    price: 10
+  DEAD_FIRE_CORAL_BLOCK:
+    damage: 0
+    price: 10
+  DEAD_FIRE_CORAL_FAN:
+    damage: 0
+    price: 10
+  DEAD_FIRE_CORAL_WALL_FAN:
+    damage: 0
+    price: 10
+  DEAD_HORN_CORAL:
+    damage: 0
+    price: 10
+  DEAD_HORN_CORAL_BLOCK:
+    damage: 0
+    price: 10
+  DEAD_HORN_CORAL_FAN:
+    damage: 0
+    price: 10
+  DEAD_HORN_CORAL_WALL_FAN:
+    damage: 0
+    price: 10
+  DEAD_TUBE_CORAL:
+    damage: 0
+    price: 10
+  DEAD_TUBE_CORAL_BLOCK:
+    damage: 0
+    price: 10
+  DEAD_TUBE_CORAL_FAN:
+    damage: 0
+    price: 10
+  DEAD_TUBE_CORAL_WALL_FAN:
+    damage: 0
+    price: 10
+  DEBUG_STICK:
+    damage: 0
+    price: 10
+  DETECTOR_RAIL:
+    damage: 0
+    price: 10
+  DIAMOND:
+    damage: 0
+    price: 10
+  DIAMOND_AXE:
+    damage: 0
+    price: 10
+  DIAMOND_BLOCK:
+    damage: 0
+    price: 10
+  DIAMOND_BOOTS:
+    damage: 0
+    price: 10
+  DIAMOND_CHESTPLATE:
+    damage: 0
+    price: 10
+  DIAMOND_HELMET:
+    damage: 0
+    price: 10
+  DIAMOND_HOE:
+    damage: 0
+    price: 10
+  DIAMOND_HORSE_ARMOR:
+    damage: 0
+    price: 10
+  DIAMOND_LEGGINGS:
+    damage: 0
+    price: 10
+  DIAMOND_ORE:
+    damage: 0
+    price: 10
+  DIAMOND_PICKAXE:
+    damage: 0
+    price: 10
+  DIAMOND_SHOVEL:
+    damage: 0
+    price: 10
+  DIAMOND_SWORD:
+    damage: 0
+    price: 10
+  DIORITE:
+    damage: 0
+    price: 10
+  DIORITE_SLAB:
+    damage: 0
+    price: 10
+  DIORITE_STAIRS:
+    damage: 0
+    price: 10
+  DIORITE_WALL:
+    damage: 0
+    price: 10
+  DIRT:
+    damage: 0
+    price: 10
+  DISPENSER:
+    damage: 0
+    price: 10
+  DOLPHIN_SPAWN_EGG:
+    damage: 0
+    price: 10
+  DONKEY_SPAWN_EGG:
+    damage: 0
+    price: 10
+  DRAGON_BREATH:
+    damage: 0
+    price: 10
+  DRAGON_EGG:
+    damage: 0
+    price: 10
+  DRAGON_HEAD:
+    damage: 0
+    price: 10
+  DRAGON_WALL_HEAD:
+    damage: 0
+    price: 10
+  DRIED_KELP:
+    damage: 0
+    price: 10
+  DRIED_KELP_BLOCK:
+    damage: 0
+    price: 10
+  DROPPER:
+    damage: 0
+    price: 10
+  DROWNED_SPAWN_EGG:
+    damage: 0
+    price: 10
+  EGG:
+    damage: 0
+    price: 10
+  ELDER_GUARDIAN_SPAWN_EGG:
+    damage: 0
+    price: 10
+  ELYTRA:
+    damage: 0
+    price: 10
+  EMERALD:
+    damage: 0
+    price: 10
+  EMERALD_BLOCK:
+    damage: 0
+    price: 10
+  EMERALD_ORE:
+    damage: 0
+    price: 10
+  ENCHANTED_BOOK:
+    damage: 0
+    price: 10
+  ENCHANTED_GOLDEN_APPLE:
+    damage: 0
+    price: 10
+  ENCHANTING_TABLE:
+    damage: 0
+    price: 10
+  ENDERMAN_SPAWN_EGG:
+    damage: 0
+    price: 10
+  ENDERMITE_SPAWN_EGG:
+    damage: 0
+    price: 10
+  ENDER_CHEST:
+    damage: 0
+    price: 10
+  ENDER_EYE:
+    damage: 0
+    price: 10
+  ENDER_PEARL:
+    damage: 0
+    price: 10
+  END_CRYSTAL:
+    damage: 0
+    price: 10
+  END_GATEWAY:
+    damage: 0
+    price: 10
+  END_PORTAL:
+    damage: 0
+    price: 10
+  END_PORTAL_FRAME:
+    damage: 0
+    price: 10
+  END_ROD:
+    damage: 0
+    price: 10
+  END_STONE:
+    damage: 0
+    price: 10
+  END_STONE_BRICKS:
+    damage: 0
+    price: 10
+  END_STONE_BRICK_SLAB:
+    damage: 0
+    price: 10
+  END_STONE_BRICK_STAIRS:
+    damage: 0
+    price: 10
+  END_STONE_BRICK_WALL:
+    damage: 0
+    price: 10
+  EVOKER_SPAWN_EGG:
+    damage: 0
+    price: 10
+  EXPERIENCE_BOTTLE:
+    damage: 0
+    price: 10
+  FARMLAND:
+    damage: 0
+    price: 10
+  FEATHER:
+    damage: 0
+    price: 10
+  FERMENTED_SPIDER_EYE:
+    damage: 0
+    price: 10
+  FERN:
+    damage: 0
+    price: 10
+  FILLED_MAP:
+    damage: 0
+    price: 10
+  FIRE:
+    damage: 0
+    price: 10
+  FIREWORK_ROCKET:
+    damage: 0
+    price: 10
+  FIREWORK_STAR:
+    damage: 0
+    price: 10
+  FIRE_CHARGE:
+    damage: 0
+    price: 10
+  FIRE_CORAL:
+    damage: 0
+    price: 10
+  FIRE_CORAL_BLOCK:
+    damage: 0
+    price: 10
+  FIRE_CORAL_FAN:
+    damage: 0
+    price: 10
+  FIRE_CORAL_WALL_FAN:
+    damage: 0
+    price: 10
+  FISHING_ROD:
+    damage: 0
+    price: 10
+  FLETCHING_TABLE:
+    damage: 0
+    price: 10
+  FLINT:
+    damage: 0
+    price: 10
+  FLINT_AND_STEEL:
+    damage: 0
+    price: 10
+  FLOWER_BANNER_PATTERN:
+    damage: 0
+    price: 10
+  FLOWER_POT:
+    damage: 0
+    price: 10
+  FOX_SPAWN_EGG:
+    damage: 0
+    price: 10
+  FROSTED_ICE:
+    damage: 0
+    price: 10
+  FURNACE:
+    damage: 0
+    price: 10
+  FURNACE_MINECART:
+    damage: 0
+    price: 10
+  GHAST_SPAWN_EGG:
+    damage: 0
+    price: 10
+  GHAST_TEAR:
+    damage: 0
+    price: 10
+  GLASS:
+    damage: 0
+    price: 10
+  GLASS_BOTTLE:
+    damage: 0
+    price: 10
+  GLASS_PANE:
+    damage: 0
+    price: 10
+  GLISTERING_MELON_SLICE:
+    damage: 0
+    price: 10
+  GLOBE_BANNER_PATTERN:
+    damage: 0
+    price: 10
+  GLOWSTONE:
+    damage: 0
+    price: 10
+  GLOWSTONE_DUST:
+    damage: 0
+    price: 10
+  GOLDEN_APPLE:
+    damage: 0
+    price: 10
+  GOLDEN_AXE:
+    damage: 0
+    price: 10
+  GOLDEN_BOOTS:
+    damage: 0
+    price: 10
+  GOLDEN_CARROT:
+    damage: 0
+    price: 10
+  GOLDEN_CHESTPLATE:
+    damage: 0
+    price: 10
+  GOLDEN_HELMET:
+    damage: 0
+    price: 10
+  GOLDEN_HOE:
+    damage: 0
+    price: 10
+  GOLDEN_HORSE_ARMOR:
+    damage: 0
+    price: 10
+  GOLDEN_LEGGINGS:
+    damage: 0
+    price: 10
+  GOLDEN_PICKAXE:
+    damage: 0
+    price: 10
+  GOLDEN_SHOVEL:
+    damage: 0
+    price: 10
+  GOLDEN_SWORD:
+    damage: 0
+    price: 10
+  GOLD_BLOCK:
+    damage: 0
+    price: 10
+  GOLD_INGOT:
+    damage: 0
+    price: 10
+  GOLD_NUGGET:
+    damage: 0
+    price: 10
+  GOLD_ORE:
+    damage: 0
+    price: 10
+  GRANITE:
+    damage: 0
+    price: 10
+  GRANITE_SLAB:
+    damage: 0
+    price: 10
+  GRANITE_STAIRS:
+    damage: 0
+    price: 10
+  GRANITE_WALL:
+    damage: 0
+    price: 10
+  GRASS:
+    damage: 0
+    price: 10
+  GRASS_BLOCK:
+    damage: 0
+    price: 10
+  GRASS_PATH:
+    damage: 0
+    price: 10
+  GRAVEL:
+    damage: 0
+    price: 10
+  GRAY_BANNER:
+    damage: 0
+    price: 10
+  GRAY_BED:
+    damage: 0
+    price: 10
+  GRAY_CARPET:
+    damage: 0
+    price: 10
+  GRAY_CONCRETE:
+    damage: 0
+    price: 10
+  GRAY_CONCRETE_POWDER:
+    damage: 0
+    price: 10
+  GRAY_DYE:
+    damage: 0
+    price: 10
+  GRAY_GLAZED_TERRACOTTA:
+    damage: 0
+    price: 10
+  GRAY_SHULKER_BOX:
+    damage: 0
+    price: 10
+  GRAY_STAINED_GLASS:
+    damage: 0
+    price: 10
+  GRAY_STAINED_GLASS_PANE:
+    damage: 0
+    price: 10
+  GRAY_TERRACOTTA:
+    damage: 0
+    price: 10
+  GRAY_WALL_BANNER:
+    damage: 0
+    price: 10
+  GRAY_WOOL:
+    damage: 0
+    price: 10
+  GREEN_BANNER:
+    damage: 0
+    price: 10
+  GREEN_BED:
+    damage: 0
+    price: 10
+  GREEN_CARPET:
+    damage: 0
+    price: 10
+  GREEN_CONCRETE:
+    damage: 0
+    price: 10
+  GREEN_CONCRETE_POWDER:
+    damage: 0
+    price: 10
+  GREEN_DYE:
+    damage: 0
+    price: 10
+  GREEN_GLAZED_TERRACOTTA:
+    damage: 0
+    price: 10
+  GREEN_SHULKER_BOX:
+    damage: 0
+    price: 10
+  GREEN_STAINED_GLASS:
+    damage: 0
+    price: 10
+  GREEN_STAINED_GLASS_PANE:
+    damage: 0
+    price: 10
+  GREEN_TERRACOTTA:
+    damage: 0
+    price: 10
+  GREEN_WALL_BANNER:
+    damage: 0
+    price: 10
+  GREEN_WOOL:
+    damage: 0
+    price: 10
+  GRINDSTONE:
+    damage: 0
+    price: 10
+  GUARDIAN_SPAWN_EGG:
+    damage: 0
+    price: 10
+  GUNPOWDER:
+    damage: 0
+    price: 10
+  HAY_BLOCK:
+    damage: 0
+    price: 10
+  HEART_OF_THE_SEA:
+    damage: 0
+    price: 10
+  HEAVY_WEIGHTED_PRESSURE_PLATE:
+    damage: 0
+    price: 10
+  HOPPER:
+    damage: 0
+    price: 10
+  HOPPER_MINECART:
+    damage: 0
+    price: 10
+  HORN_CORAL:
+    damage: 0
+    price: 10
+  HORN_CORAL_BLOCK:
+    damage: 0
+    price: 10
+  HORN_CORAL_FAN:
+    damage: 0
+    price: 10
+  HORN_CORAL_WALL_FAN:
+    damage: 0
+    price: 10
+  HORSE_SPAWN_EGG:
+    damage: 0
+    price: 10
+  HUSK_SPAWN_EGG:
+    damage: 0
+    price: 10
+  ICE:
+    damage: 0
+    price: 10
+  INFESTED_CHISELED_STONE_BRICKS:
+    damage: 0
+    price: 10
+  INFESTED_COBBLESTONE:
+    damage: 0
+    price: 10
+  INFESTED_CRACKED_STONE_BRICKS:
+    damage: 0
+    price: 10
+  INFESTED_MOSSY_STONE_BRICKS:
+    damage: 0
+    price: 10
+  INFESTED_STONE:
+    damage: 0
+    price: 10
+  INFESTED_STONE_BRICKS:
+    damage: 0
+    price: 10
+  INK_SAC:
+    damage: 0
+    price: 10
+  IRON_AXE:
+    damage: 0
+    price: 10
+  IRON_BARS:
+    damage: 0
+    price: 10
+  IRON_BLOCK:
+    damage: 0
+    price: 10
+  IRON_BOOTS:
+    damage: 0
+    price: 10
+  IRON_CHESTPLATE:
+    damage: 0
+    price: 10
+  IRON_DOOR:
+    damage: 0
+    price: 10
+  IRON_HELMET:
+    damage: 0
+    price: 10
+  IRON_HOE:
+    damage: 0
+    price: 10
+  IRON_HORSE_ARMOR:
+    damage: 0
+    price: 10
+  IRON_INGOT:
+    damage: 0
+    price: 10
+  IRON_LEGGINGS:
+    damage: 0
+    price: 10
+  IRON_NUGGET:
+    damage: 0
+    price: 10
+  IRON_ORE:
+    damage: 0
+    price: 10
+  IRON_PICKAXE:
+    damage: 0
+    price: 10
+  IRON_SHOVEL:
+    damage: 0
+    price: 10
+  IRON_SWORD:
+    damage: 0
+    price: 10
+  IRON_TRAPDOOR:
+    damage: 0
+    price: 10
+  ITEM_FRAME:
+    damage: 0
+    price: 10
+  JACK_O_LANTERN:
+    damage: 0
+    price: 10
+  JIGSAW:
+    damage: 0
+    price: 10
+  JUKEBOX:
+    damage: 0
+    price: 10
+  JUNGLE_BOAT:
+    damage: 0
+    price: 10
+  JUNGLE_BUTTON:
+    damage: 0
+    price: 10
+  JUNGLE_DOOR:
+    damage: 0
+    price: 10
+  JUNGLE_FENCE:
+    damage: 0
+    price: 10
+  JUNGLE_FENCE_GATE:
+    damage: 0
+    price: 10
+  JUNGLE_LEAVES:
+    damage: 0
+    price: 10
+  JUNGLE_LOG:
+    damage: 0
+    price: 10
+  JUNGLE_PLANKS:
+    damage: 0
+    price: 10
+  JUNGLE_PRESSURE_PLATE:
+    damage: 0
+    price: 10
+  JUNGLE_SAPLING:
+    damage: 0
+    price: 10
+  JUNGLE_SIGN:
+    damage: 0
+    price: 10
+  JUNGLE_SLAB:
+    damage: 0
+    price: 10
+  JUNGLE_STAIRS:
+    damage: 0
+    price: 10
+  JUNGLE_TRAPDOOR:
+    damage: 0
+    price: 10
+  JUNGLE_WALL_SIGN:
+    damage: 0
+    price: 10
+  JUNGLE_WOOD:
+    damage: 0
+    price: 10
+  KELP:
+    damage: 0
+    price: 10
+  KELP_PLANT:
+    damage: 0
+    price: 10
+  KNOWLEDGE_BOOK:
+    damage: 0
+    price: 10
+  LADDER:
+    damage: 0
+    price: 10
+  LANTERN:
+    damage: 0
+    price: 10
+  LAPIS_BLOCK:
+    damage: 0
+    price: 10
+  LAPIS_LAZULI:
+    damage: 0
+    price: 10
+  LAPIS_ORE:
+    damage: 0
+    price: 10
+  LARGE_FERN:
+    damage: 0
+    price: 10
+  LAVA:
+    damage: 0
+    price: 10
+  LAVA_BUCKET:
+    damage: 0
+    price: 10
+  LEAD:
+    damage: 0
+    price: 10
+  LEATHER:
+    damage: 0
+    price: 10
+  LEATHER_BOOTS:
+    damage: 0
+    price: 10
+  LEATHER_CHESTPLATE:
+    damage: 0
+    price: 10
+  LEATHER_HELMET:
+    damage: 0
+    price: 10
+  LEATHER_HORSE_ARMOR:
+    damage: 0
+    price: 10
+  LEATHER_LEGGINGS:
+    damage: 0
+    price: 10
+  LECTERN:
+    damage: 0
+    price: 10
+  LEVER:
+    damage: 0
+    price: 10
+  LIGHT_BLUE_BANNER:
+    damage: 0
+    price: 10
+  LIGHT_BLUE_BED:
+    damage: 0
+    price: 10
+  LIGHT_BLUE_CARPET:
+    damage: 0
+    price: 10
+  LIGHT_BLUE_CONCRETE:
+    damage: 0
+    price: 10
+  LIGHT_BLUE_CONCRETE_POWDER:
+    damage: 0
+    price: 10
+  LIGHT_BLUE_DYE:
+    damage: 0
+    price: 10
+  LIGHT_BLUE_GLAZED_TERRACOTTA:
+    damage: 0
+    price: 10
+  LIGHT_BLUE_SHULKER_BOX:
+    damage: 0
+    price: 10
+  LIGHT_BLUE_STAINED_GLASS:
+    damage: 0
+    price: 10
+  LIGHT_BLUE_STAINED_GLASS_PANE:
+    damage: 0
+    price: 10
+  LIGHT_BLUE_TERRACOTTA:
+    damage: 0
+    price: 10
+  LIGHT_BLUE_WALL_BANNER:
+    damage: 0
+    price: 10
+  LIGHT_BLUE_WOOL:
+    damage: 0
+    price: 10
+  LIGHT_GRAY_BANNER:
+    damage: 0
+    price: 10
+  LIGHT_GRAY_BED:
+    damage: 0
+    price: 10
+  LIGHT_GRAY_CARPET:
+    damage: 0
+    price: 10
+  LIGHT_GRAY_CONCRETE:
+    damage: 0
+    price: 10
+  LIGHT_GRAY_CONCRETE_POWDER:
+    damage: 0
+    price: 10
+  LIGHT_GRAY_DYE:
+    damage: 0
+    price: 10
+  LIGHT_GRAY_GLAZED_TERRACOTTA:
+    damage: 0
+    price: 10
+  LIGHT_GRAY_SHULKER_BOX:
+    damage: 0
+    price: 10
+  LIGHT_GRAY_STAINED_GLASS:
+    damage: 0
+    price: 10
+  LIGHT_GRAY_STAINED_GLASS_PANE:
+    damage: 0
+    price: 10
+  LIGHT_GRAY_TERRACOTTA:
+    damage: 0
+    price: 10
+  LIGHT_GRAY_WALL_BANNER:
+    damage: 0
+    price: 10
+  LIGHT_GRAY_WOOL:
+    damage: 0
+    price: 10
+  LIGHT_WEIGHTED_PRESSURE_PLATE:
+    damage: 0
+    price: 10
+  LILAC:
+    damage: 0
+    price: 10
+  LILY_OF_THE_VALLEY:
+    damage: 0
+    price: 10
+  LILY_PAD:
+    damage: 0
+    price: 10
+  LIME_BANNER:
+    damage: 0
+    price: 10
+  LIME_BED:
+    damage: 0
+    price: 10
+  LIME_CARPET:
+    damage: 0
+    price: 10
+  LIME_CONCRETE:
+    damage: 0
+    price: 10
+  LIME_CONCRETE_POWDER:
+    damage: 0
+    price: 10
+  LIME_DYE:
+    damage: 0
+    price: 10
+  LIME_GLAZED_TERRACOTTA:
+    damage: 0
+    price: 10
+  LIME_SHULKER_BOX:
+    damage: 0
+    price: 10
+  LIME_STAINED_GLASS:
+    damage: 0
+    price: 10
+  LIME_STAINED_GLASS_PANE:
+    damage: 0
+    price: 10
+  LIME_TERRACOTTA:
+    damage: 0
+    price: 10
+  LIME_WALL_BANNER:
+    damage: 0
+    price: 10
+  LIME_WOOL:
+    damage: 0
+    price: 10
+  LINGERING_POTION:
+    damage: 0
+    price: 10
+  LLAMA_SPAWN_EGG:
+    damage: 0
+    price: 10
+  LOOM:
+    damage: 0
+    price: 10
+  MAGENTA_BANNER:
+    damage: 0
+    price: 10
+  MAGENTA_BED:
+    damage: 0
+    price: 10
+  MAGENTA_CARPET:
+    damage: 0
+    price: 10
+  MAGENTA_CONCRETE:
+    damage: 0
+    price: 10
+  MAGENTA_CONCRETE_POWDER:
+    damage: 0
+    price: 10
+  MAGENTA_DYE:
+    damage: 0
+    price: 10
+  MAGENTA_GLAZED_TERRACOTTA:
+    damage: 0
+    price: 10
+  MAGENTA_SHULKER_BOX:
+    damage: 0
+    price: 10
+  MAGENTA_STAINED_GLASS:
+    damage: 0
+    price: 10
+  MAGENTA_STAINED_GLASS_PANE:
+    damage: 0
+    price: 10
+  MAGENTA_TERRACOTTA:
+    damage: 0
+    price: 10
+  MAGENTA_WALL_BANNER:
+    damage: 0
+    price: 10
+  MAGENTA_WOOL:
+    damage: 0
+    price: 10
+  MAGMA_BLOCK:
+    damage: 0
+    price: 10
+  MAGMA_CREAM:
+    damage: 0
+    price: 10
+  MAGMA_CUBE_SPAWN_EGG:
+    damage: 0
+    price: 10
+  MAP:
+    damage: 0
+    price: 10
+  MELON:
+    damage: 0
+    price: 10
+  MELON_SEEDS:
+    damage: 0
+    price: 10
+  MELON_SLICE:
+    damage: 0
+    price: 10
+  MELON_STEM:
+    damage: 0
+    price: 10
+  MILK_BUCKET:
+    damage: 0
+    price: 10
+  MINECART:
+    damage: 0
+    price: 10
+  MOJANG_BANNER_PATTERN:
+    damage: 0
+    price: 10
+  MOOSHROOM_SPAWN_EGG:
+    damage: 0
+    price: 10
+  MOSSY_COBBLESTONE:
+    damage: 0
+    price: 10
+  MOSSY_COBBLESTONE_SLAB:
+    damage: 0
+    price: 10
+  MOSSY_COBBLESTONE_STAIRS:
+    damage: 0
+    price: 10
+  MOSSY_COBBLESTONE_WALL:
+    damage: 0
+    price: 10
+  MOSSY_STONE_BRICKS:
+    damage: 0
+    price: 10
+  MOSSY_STONE_BRICK_SLAB:
+    damage: 0
+    price: 10
+  MOSSY_STONE_BRICK_STAIRS:
+    damage: 0
+    price: 10
+  MOSSY_STONE_BRICK_WALL:
+    damage: 0
+    price: 10
+  MOVING_PISTON:
+    damage: 0
+    price: 10
+  MULE_SPAWN_EGG:
+    damage: 0
+    price: 10
+  MUSHROOM_STEM:
+    damage: 0
+    price: 10
+  MUSHROOM_STEW:
+    damage: 0
+    price: 10
+  MUSIC_DISC_11:
+    damage: 0
+    price: 10
+  MUSIC_DISC_13:
+    damage: 0
+    price: 10
+  MUSIC_DISC_BLOCKS:
+    damage: 0
+    price: 10
+  MUSIC_DISC_CAT:
+    damage: 0
+    price: 10
+  MUSIC_DISC_CHIRP:
+    damage: 0
+    price: 10
+  MUSIC_DISC_FAR:
+    damage: 0
+    price: 10
+  MUSIC_DISC_MALL:
+    damage: 0
+    price: 10
+  MUSIC_DISC_MELLOHI:
+    damage: 0
+    price: 10
+  MUSIC_DISC_STAL:
+    damage: 0
+    price: 10
+  MUSIC_DISC_STRAD:
+    damage: 0
+    price: 10
+  MUSIC_DISC_WAIT:
+    damage: 0
+    price: 10
+  MUSIC_DISC_WARD:
+    damage: 0
+    price: 10
+  MUTTON:
+    damage: 0
+    price: 10
+  MYCELIUM:
+    damage: 0
+    price: 10
+  NAME_TAG:
+    damage: 0
+    price: 10
+  NAUTILUS_SHELL:
+    damage: 0
+    price: 10
+  NETHERRACK:
+    damage: 0
+    price: 10
+  NETHER_BRICK:
+    damage: 0
+    price: 10
+  NETHER_BRICKS:
+    damage: 0
+    price: 10
+  NETHER_BRICK_FENCE:
+    damage: 0
+    price: 10
+  NETHER_BRICK_SLAB:
+    damage: 0
+    price: 10
+  NETHER_BRICK_STAIRS:
+    damage: 0
+    price: 10
+  NETHER_BRICK_WALL:
+    damage: 0
+    price: 10
+  NETHER_PORTAL:
+    damage: 0
+    price: 10
+  NETHER_QUARTZ_ORE:
+    damage: 0
+    price: 10
+  NETHER_STAR:
+    damage: 0
+    price: 10
+  NETHER_WART:
+    damage: 0
+    price: 10
+  NETHER_WART_BLOCK:
+    damage: 0
+    price: 10
+  NOTE_BLOCK:
+    damage: 0
+    price: 10
+  OAK_BOAT:
+    damage: 0
+    price: 10
+  OAK_BUTTON:
+    damage: 0
+    price: 10
+  OAK_DOOR:
+    damage: 0
+    price: 10
+  OAK_FENCE:
+    damage: 0
+    price: 10
+  OAK_FENCE_GATE:
+    damage: 0
+    price: 10
+  OAK_LEAVES:
+    damage: 0
+    price: 10
+  OAK_LOG:
+    damage: 0
+    price: 10
+  OAK_PLANKS:
+    damage: 0
+    price: 10
+  OAK_PRESSURE_PLATE:
+    damage: 0
+    price: 10
+  OAK_SAPLING:
+    damage: 0
+    price: 10
+  OAK_SIGN:
+    damage: 0
+    price: 10
+  OAK_SLAB:
+    damage: 0
+    price: 10
+  OAK_STAIRS:
+    damage: 0
+    price: 10
+  OAK_TRAPDOOR:
+    damage: 0
+    price: 10
+  OAK_WALL_SIGN:
+    damage: 0
+    price: 10
+  OAK_WOOD:
+    damage: 0
+    price: 10
+  OBSERVER:
+    damage: 0
+    price: 10
+  OBSIDIAN:
+    damage: 0
+    price: 10
+  OCELOT_SPAWN_EGG:
+    damage: 0
+    price: 10
+  ORANGE_BANNER:
+    damage: 0
+    price: 10
+  ORANGE_BED:
+    damage: 0
+    price: 10
+  ORANGE_CARPET:
+    damage: 0
+    price: 10
+  ORANGE_CONCRETE:
+    damage: 0
+    price: 10
+  ORANGE_CONCRETE_POWDER:
+    damage: 0
+    price: 10
+  ORANGE_DYE:
+    damage: 0
+    price: 10
+  ORANGE_GLAZED_TERRACOTTA:
+    damage: 0
+    price: 10
+  ORANGE_SHULKER_BOX:
+    damage: 0
+    price: 10
+  ORANGE_STAINED_GLASS:
+    damage: 0
+    price: 10
+  ORANGE_STAINED_GLASS_PANE:
+    damage: 0
+    price: 10
+  ORANGE_TERRACOTTA:
+    damage: 0
+    price: 10
+  ORANGE_TULIP:
+    damage: 0
+    price: 10
+  ORANGE_WALL_BANNER:
+    damage: 0
+    price: 10
+  ORANGE_WOOL:
+    damage: 0
+    price: 10
+  OXEYE_DAISY:
+    damage: 0
+    price: 10
+  PACKED_ICE:
+    damage: 0
+    price: 10
+  PAINTING:
+    damage: 0
+    price: 10
+  PANDA_SPAWN_EGG:
+    damage: 0
+    price: 10
+  PAPER:
+    damage: 0
+    price: 10
+  PARROT_SPAWN_EGG:
+    damage: 0
+    price: 10
+  PEONY:
+    damage: 0
+    price: 10
+  PETRIFIED_OAK_SLAB:
+    damage: 0
+    price: 10
+  PHANTOM_MEMBRANE:
+    damage: 0
+    price: 10
+  PHANTOM_SPAWN_EGG:
+    damage: 0
+    price: 10
+  PIG_SPAWN_EGG:
+    damage: 0
+    price: 10
+  PILLAGER_SPAWN_EGG:
+    damage: 0
+    price: 10
+  PINK_BANNER:
+    damage: 0
+    price: 10
+  PINK_BED:
+    damage: 0
+    price: 10
+  PINK_CARPET:
+    damage: 0
+    price: 10
+  PINK_CONCRETE:
+    damage: 0
+    price: 10
+  PINK_CONCRETE_POWDER:
+    damage: 0
+    price: 10
+  PINK_DYE:
+    damage: 0
+    price: 10
+  PINK_GLAZED_TERRACOTTA:
+    damage: 0
+    price: 10
+  PINK_SHULKER_BOX:
+    damage: 0
+    price: 10
+  PINK_STAINED_GLASS:
+    damage: 0
+    price: 10
+  PINK_STAINED_GLASS_PANE:
+    damage: 0
+    price: 10
+  PINK_TERRACOTTA:
+    damage: 0
+    price: 10
+  PINK_TULIP:
+    damage: 0
+    price: 10
+  PINK_WALL_BANNER:
+    damage: 0
+    price: 10
+  PINK_WOOL:
+    damage: 0
+    price: 10
+  PISTON:
+    damage: 0
+    price: 10
+  PISTON_HEAD:
+    damage: 0
+    price: 10
+  PLAYER_HEAD:
+    damage: 0
+    price: 10
+  PLAYER_WALL_HEAD:
+    damage: 0
+    price: 10
+  PODZOL:
+    damage: 0
+    price: 10
+  POISONOUS_POTATO:
+    damage: 0
+    price: 10
+  POLAR_BEAR_SPAWN_EGG:
+    damage: 0
+    price: 10
+  POLISHED_ANDESITE:
+    damage: 0
+    price: 10
+  POLISHED_ANDESITE_SLAB:
+    damage: 0
+    price: 10
+  POLISHED_ANDESITE_STAIRS:
+    damage: 0
+    price: 10
+  POLISHED_DIORITE:
+    damage: 0
+    price: 10
+  POLISHED_DIORITE_SLAB:
+    damage: 0
+    price: 10
+  POLISHED_DIORITE_STAIRS:
+    damage: 0
+    price: 10
+  POLISHED_GRANITE:
+    damage: 0
+    price: 10
+  POLISHED_GRANITE_SLAB:
+    damage: 0
+    price: 10
+  POLISHED_GRANITE_STAIRS:
+    damage: 0
+    price: 10
+  POPPED_CHORUS_FRUIT:
+    damage: 0
+    price: 10
+  POPPY:
+    damage: 0
+    price: 10
+  PORKCHOP:
+    damage: 0
+    price: 10
+  POTATO:
+    damage: 0
+    price: 10
+  POTATOES:
+    damage: 0
+    price: 10
+  POTION:
+    damage: 0
+    price: 10
+  POTTED_ACACIA_SAPLING:
+    damage: 0
+    price: 10
+  POTTED_ALLIUM:
+    damage: 0
+    price: 10
+  POTTED_AZURE_BLUET:
+    damage: 0
+    price: 10
+  POTTED_BAMBOO:
+    damage: 0
+    price: 10
+  POTTED_BIRCH_SAPLING:
+    damage: 0
+    price: 10
+  POTTED_BLUE_ORCHID:
+    damage: 0
+    price: 10
+  POTTED_BROWN_MUSHROOM:
+    damage: 0
+    price: 10
+  POTTED_CACTUS:
+    damage: 0
+    price: 10
+  POTTED_CORNFLOWER:
+    damage: 0
+    price: 10
+  POTTED_DANDELION:
+    damage: 0
+    price: 10
+  POTTED_DARK_OAK_SAPLING:
+    damage: 0
+    price: 10
+  POTTED_DEAD_BUSH:
+    damage: 0
+    price: 10
+  POTTED_FERN:
+    damage: 0
+    price: 10
+  POTTED_JUNGLE_SAPLING:
+    damage: 0
+    price: 10
+  POTTED_LILY_OF_THE_VALLEY:
+    damage: 0
+    price: 10
+  POTTED_OAK_SAPLING:
+    damage: 0
+    price: 10
+  POTTED_ORANGE_TULIP:
+    damage: 0
+    price: 10
+  POTTED_OXEYE_DAISY:
+    damage: 0
+    price: 10
+  POTTED_PINK_TULIP:
+    damage: 0
+    price: 10
+  POTTED_POPPY:
+    damage: 0
+    price: 10
+  POTTED_RED_MUSHROOM:
+    damage: 0
+    price: 10
+  POTTED_RED_TULIP:
+    damage: 0
+    price: 10
+  POTTED_SPRUCE_SAPLING:
+    damage: 0
+    price: 10
+  POTTED_WHITE_TULIP:
+    damage: 0
+    price: 10
+  POTTED_WITHER_ROSE:
+    damage: 0
+    price: 10
+  POWERED_RAIL:
+    damage: 0
+    price: 10
+  PRISMARINE:
+    damage: 0
+    price: 10
+  PRISMARINE_BRICKS:
+    damage: 0
+    price: 10
+  PRISMARINE_BRICK_SLAB:
+    damage: 0
+    price: 10
+  PRISMARINE_BRICK_STAIRS:
+    damage: 0
+    price: 10
+  PRISMARINE_CRYSTALS:
+    damage: 0
+    price: 10
+  PRISMARINE_SHARD:
+    damage: 0
+    price: 10
+  PRISMARINE_SLAB:
+    damage: 0
+    price: 10
+  PRISMARINE_STAIRS:
+    damage: 0
+    price: 10
+  PRISMARINE_WALL:
+    damage: 0
+    price: 10
+  PUFFERFISH:
+    damage: 0
+    price: 10
+  PUFFERFISH_BUCKET:
+    damage: 0
+    price: 10
+  PUFFERFISH_SPAWN_EGG:
+    damage: 0
+    price: 10
+  PUMPKIN:
+    damage: 0
+    price: 10
+  PUMPKIN_PIE:
+    damage: 0
+    price: 10
+  PUMPKIN_SEEDS:
+    damage: 0
+    price: 10
+  PUMPKIN_STEM:
+    damage: 0
+    price: 10
+  PURPLE_BANNER:
+    damage: 0
+    price: 10
+  PURPLE_BED:
+    damage: 0
+    price: 10
+  PURPLE_CARPET:
+    damage: 0
+    price: 10
+  PURPLE_CONCRETE:
+    damage: 0
+    price: 10
+  PURPLE_CONCRETE_POWDER:
+    damage: 0
+    price: 10
+  PURPLE_DYE:
+    damage: 0
+    price: 10
+  PURPLE_GLAZED_TERRACOTTA:
+    damage: 0
+    price: 10
+  PURPLE_SHULKER_BOX:
+    damage: 0
+    price: 10
+  PURPLE_STAINED_GLASS:
+    damage: 0
+    price: 10
+  PURPLE_STAINED_GLASS_PANE:
+    damage: 0
+    price: 10
+  PURPLE_TERRACOTTA:
+    damage: 0
+    price: 10
+  PURPLE_WALL_BANNER:
+    damage: 0
+    price: 10
+  PURPLE_WOOL:
+    damage: 0
+    price: 10
+  PURPUR_BLOCK:
+    damage: 0
+    price: 10
+  PURPUR_PILLAR:
+    damage: 0
+    price: 10
+  PURPUR_SLAB:
+    damage: 0
+    price: 10
+  PURPUR_STAIRS:
+    damage: 0
+    price: 10
+  QUARTZ:
+    damage: 0
+    price: 10
+  QUARTZ_BLOCK:
+    damage: 0
+    price: 10
+  QUARTZ_PILLAR:
+    damage: 0
+    price: 10
+  QUARTZ_SLAB:
+    damage: 0
+    price: 10
+  QUARTZ_STAIRS:
+    damage: 0
+    price: 10
+  RABBIT:
+    damage: 0
+    price: 10
+  RABBIT_FOOT:
+    damage: 0
+    price: 10
+  RABBIT_HIDE:
+    damage: 0
+    price: 10
+  RABBIT_SPAWN_EGG:
+    damage: 0
+    price: 10
+  RABBIT_STEW:
+    damage: 0
+    price: 10
+  RAIL:
+    damage: 0
+    price: 10
+  RAVAGER_SPAWN_EGG:
+    damage: 0
+    price: 10
+  REDSTONE:
+    damage: 0
+    price: 10
+  REDSTONE_BLOCK:
+    damage: 0
+    price: 10
+  REDSTONE_LAMP:
+    damage: 0
+    price: 10
+  REDSTONE_ORE:
+    damage: 0
+    price: 10
+  REDSTONE_TORCH:
+    damage: 0
+    price: 10
+  REDSTONE_WALL_TORCH:
+    damage: 0
+    price: 10
+  REDSTONE_WIRE:
+    damage: 0
+    price: 10
+  RED_BANNER:
+    damage: 0
+    price: 10
+  RED_BED:
+    damage: 0
+    price: 10
+  RED_CARPET:
+    damage: 0
+    price: 10
+  RED_CONCRETE:
+    damage: 0
+    price: 10
+  RED_CONCRETE_POWDER:
+    damage: 0
+    price: 10
+  RED_DYE:
+    damage: 0
+    price: 10
+  RED_GLAZED_TERRACOTTA:
+    damage: 0
+    price: 10
+  RED_MUSHROOM:
+    damage: 0
+    price: 10
+  RED_MUSHROOM_BLOCK:
+    damage: 0
+    price: 10
+  RED_NETHER_BRICKS:
+    damage: 0
+    price: 10
+  RED_NETHER_BRICK_SLAB:
+    damage: 0
+    price: 10
+  RED_NETHER_BRICK_STAIRS:
+    damage: 0
+    price: 10
+  RED_NETHER_BRICK_WALL:
+    damage: 0
+    price: 10
+  RED_SAND:
+    damage: 0
+    price: 10
+  RED_SANDSTONE:
+    damage: 0
+    price: 10
+  RED_SANDSTONE_SLAB:
+    damage: 0
+    price: 10
+  RED_SANDSTONE_STAIRS:
+    damage: 0
+    price: 10
+  RED_SANDSTONE_WALL:
+    damage: 0
+    price: 10
+  RED_SHULKER_BOX:
+    damage: 0
+    price: 10
+  RED_STAINED_GLASS:
+    damage: 0
+    price: 10
+  RED_STAINED_GLASS_PANE:
+    damage: 0
+    price: 10
+  RED_TERRACOTTA:
+    damage: 0
+    price: 10
+  RED_TULIP:
+    damage: 0
+    price: 10
+  RED_WALL_BANNER:
+    damage: 0
+    price: 10
+  RED_WOOL:
+    damage: 0
+    price: 10
+  REPEATER:
+    damage: 0
+    price: 10
+  REPEATING_COMMAND_BLOCK:
+    damage: 0
+    price: 10
+  ROSE_BUSH:
+    damage: 0
+    price: 10
+  ROTTEN_FLESH:
+    damage: 0
+    price: 10
+  SADDLE:
+    damage: 0
+    price: 10
+  SALMON:
+    damage: 0
+    price: 10
+  SALMON_BUCKET:
+    damage: 0
+    price: 10
+  SALMON_SPAWN_EGG:
+    damage: 0
+    price: 10
+  SAND:
+    damage: 0
+    price: 10
+  SANDSTONE:
+    damage: 0
+    price: 10
+  SANDSTONE_SLAB:
+    damage: 0
+    price: 10
+  SANDSTONE_STAIRS:
+    damage: 0
+    price: 10
+  SANDSTONE_WALL:
+    damage: 0
+    price: 10
+  SCAFFOLDING:
+    damage: 0
+    price: 10
+  SCUTE:
+    damage: 0
+    price: 10
+  SEAGRASS:
+    damage: 0
+    price: 10
+  SEA_LANTERN:
+    damage: 0
+    price: 10
+  SEA_PICKLE:
+    damage: 0
+    price: 10
+  SHEARS:
+    damage: 0
+    price: 10
+  SHEEP_SPAWN_EGG:
+    damage: 0
+    price: 10
+  SHIELD:
+    damage: 0
+    price: 10
+  SHULKER_BOX:
+    damage: 0
+    price: 10
+  SHULKER_SHELL:
+    damage: 0
+    price: 10
+  SHULKER_SPAWN_EGG:
+    damage: 0
+    price: 10
+  SILVERFISH_SPAWN_EGG:
+    damage: 0
+    price: 10
+  SKELETON_HORSE_SPAWN_EGG:
+    damage: 0
+    price: 10
+  SKELETON_SKULL:
+    damage: 0
+    price: 10
+  SKELETON_SPAWN_EGG:
+    damage: 0
+    price: 10
+  SKELETON_WALL_SKULL:
+    damage: 0
+    price: 10
+  SKULL_BANNER_PATTERN:
+    damage: 0
+    price: 10
+  SLIME_BALL:
+    damage: 0
+    price: 10
+  SLIME_BLOCK:
+    damage: 0
+    price: 10
+  SLIME_SPAWN_EGG:
+    damage: 0
+    price: 10
+  SMITHING_TABLE:
+    damage: 0
+    price: 10
+  SMOKER:
+    damage: 0
+    price: 10
+  SMOOTH_QUARTZ:
+    damage: 0
+    price: 10
+  SMOOTH_QUARTZ_SLAB:
+    damage: 0
+    price: 10
+  SMOOTH_QUARTZ_STAIRS:
+    damage: 0
+    price: 10
+  SMOOTH_RED_SANDSTONE:
+    damage: 0
+    price: 10
+  SMOOTH_RED_SANDSTONE_SLAB:
+    damage: 0
+    price: 10
+  SMOOTH_RED_SANDSTONE_STAIRS:
+    damage: 0
+    price: 10
+  SMOOTH_SANDSTONE:
+    damage: 0
+    price: 10
+  SMOOTH_SANDSTONE_SLAB:
+    damage: 0
+    price: 10
+  SMOOTH_SANDSTONE_STAIRS:
+    damage: 0
+    price: 10
+  SMOOTH_STONE:
+    damage: 0
+    price: 10
+  SMOOTH_STONE_SLAB:
+    damage: 0
+    price: 10
+  SNOW:
+    damage: 0
+    price: 10
+  SNOWBALL:
+    damage: 0
+    price: 10
+  SNOW_BLOCK:
+    damage: 0
+    price: 10
+  SOUL_SAND:
+    damage: 0
+    price: 10
+  SPAWNER:
+    damage: 0
+    price: 10
+  SPECTRAL_ARROW:
+    damage: 0
+    price: 10
+  SPIDER_EYE:
+    damage: 0
+    price: 10
+  SPIDER_SPAWN_EGG:
+    damage: 0
+    price: 10
+  SPLASH_POTION:
+    damage: 0
+    price: 10
+  SPONGE:
+    damage: 0
+    price: 10
+  SPRUCE_BOAT:
+    damage: 0
+    price: 10
+  SPRUCE_BUTTON:
+    damage: 0
+    price: 10
+  SPRUCE_DOOR:
+    damage: 0
+    price: 10
+  SPRUCE_FENCE:
+    damage: 0
+    price: 10
+  SPRUCE_FENCE_GATE:
+    damage: 0
+    price: 10
+  SPRUCE_LEAVES:
+    damage: 0
+    price: 10
+  SPRUCE_LOG:
+    damage: 0
+    price: 10
+  SPRUCE_PLANKS:
+    damage: 0
+    price: 10
+  SPRUCE_PRESSURE_PLATE:
+    damage: 0
+    price: 10
+  SPRUCE_SAPLING:
+    damage: 0
+    price: 10
+  SPRUCE_SIGN:
+    damage: 0
+    price: 10
+  SPRUCE_SLAB:
+    damage: 0
+    price: 10
+  SPRUCE_STAIRS:
+    damage: 0
+    price: 10
+  SPRUCE_TRAPDOOR:
+    damage: 0
+    price: 10
+  SPRUCE_WALL_SIGN:
+    damage: 0
+    price: 10
+  SPRUCE_WOOD:
+    damage: 0
+    price: 10
+  SQUID_SPAWN_EGG:
+    damage: 0
+    price: 10
+  STICK:
+    damage: 0
+    price: 10
+  STICKY_PISTON:
+    damage: 0
+    price: 10
+  STONE:
+    damage: 0
+    price: 10
+  STONECUTTER:
+    damage: 0
+    price: 10
+  STONE_AXE:
+    damage: 0
+    price: 10
+  STONE_BRICKS:
+    damage: 0
+    price: 10
+  STONE_BRICK_SLAB:
+    damage: 0
+    price: 10
+  STONE_BRICK_STAIRS:
+    damage: 0
+    price: 10
+  STONE_BRICK_WALL:
+    damage: 0
+    price: 10
+  STONE_BUTTON:
+    damage: 0
+    price: 10
+  STONE_HOE:
+    damage: 0
+    price: 10
+  STONE_PICKAXE:
+    damage: 0
+    price: 10
+  STONE_PRESSURE_PLATE:
+    damage: 0
+    price: 10
+  STONE_SHOVEL:
+    damage: 0
+    price: 10
+  STONE_SLAB:
+    damage: 0
+    price: 10
+  STONE_STAIRS:
+    damage: 0
+    price: 10
+  STONE_SWORD:
+    damage: 0
+    price: 10
+  STRAY_SPAWN_EGG:
+    damage: 0
+    price: 10
+  STRING:
+    damage: 0
+    price: 10
+  STRIPPED_ACACIA_LOG:
+    damage: 0
+    price: 10
+  STRIPPED_ACACIA_WOOD:
+    damage: 0
+    price: 10
+  STRIPPED_BIRCH_LOG:
+    damage: 0
+    price: 10
+  STRIPPED_BIRCH_WOOD:
+    damage: 0
+    price: 10
+  STRIPPED_DARK_OAK_LOG:
+    damage: 0
+    price: 10
+  STRIPPED_DARK_OAK_WOOD:
+    damage: 0
+    price: 10
+  STRIPPED_JUNGLE_LOG:
+    damage: 0
+    price: 10
+  STRIPPED_JUNGLE_WOOD:
+    damage: 0
+    price: 10
+  STRIPPED_OAK_LOG:
+    damage: 0
+    price: 10
+  STRIPPED_OAK_WOOD:
+    damage: 0
+    price: 10
+  STRIPPED_SPRUCE_LOG:
+    damage: 0
+    price: 10
+  STRIPPED_SPRUCE_WOOD:
+    damage: 0
+    price: 10
+  STRUCTURE_BLOCK:
+    damage: 0
+    price: 10
+  STRUCTURE_VOID:
+    damage: 0
+    price: 10
+  SUGAR:
+    damage: 0
+    price: 10
+  SUGAR_CANE:
+    damage: 0
+    price: 10
+  SUNFLOWER:
+    damage: 0
+    price: 10
+  SUSPICIOUS_STEW:
+    damage: 0
+    price: 10
+  SWEET_BERRIES:
+    damage: 0
+    price: 10
+  SWEET_BERRY_BUSH:
+    damage: 0
+    price: 10
+  TALL_GRASS:
+    damage: 0
+    price: 10
+  TALL_SEAGRASS:
+    damage: 0
+    price: 10
+  TERRACOTTA:
+    damage: 0
+    price: 10
+  TIPPED_ARROW:
+    damage: 0
+    price: 10
+  TNT:
+    damage: 0
+    price: 10
+  TNT_MINECART:
+    damage: 0
+    price: 10
+  TORCH:
+    damage: 0
+    price: 10
+  TOTEM_OF_UNDYING:
+    damage: 0
+    price: 10
+  TRADER_LLAMA_SPAWN_EGG:
+    damage: 0
+    price: 10
+  TRAPPED_CHEST:
+    damage: 0
+    price: 10
+  TRIDENT:
+    damage: 0
+    price: 10
+  TRIPWIRE:
+    damage: 0
+    price: 10
+  TRIPWIRE_HOOK:
+    damage: 0
+    price: 10
+  TROPICAL_FISH:
+    damage: 0
+    price: 10
+  TROPICAL_FISH_BUCKET:
+    damage: 0
+    price: 10
+  TROPICAL_FISH_SPAWN_EGG:
+    damage: 0
+    price: 10
+  TUBE_CORAL:
+    damage: 0
+    price: 10
+  TUBE_CORAL_BLOCK:
+    damage: 0
+    price: 10
+  TUBE_CORAL_FAN:
+    damage: 0
+    price: 10
+  TUBE_CORAL_WALL_FAN:
+    damage: 0
+    price: 10
+  TURTLE_EGG:
+    damage: 0
+    price: 10
+  TURTLE_HELMET:
+    damage: 0
+    price: 10
+  TURTLE_SPAWN_EGG:
+    damage: 0
+    price: 10
+  VEX_SPAWN_EGG:
+    damage: 0
+    price: 10
+  VILLAGER_SPAWN_EGG:
+    damage: 0
+    price: 10
+  VINDICATOR_SPAWN_EGG:
+    damage: 0
+    price: 10
+  VINE:
+    damage: 0
+    price: 10
+  VOID_AIR:
+    damage: 0
+    price: 10
+  WALL_TORCH:
+    damage: 0
+    price: 10
+  WANDERING_TRADER_SPAWN_EGG:
+    damage: 0
+    price: 10
+  WATER:
+    damage: 0
+    price: 10
+  WATER_BUCKET:
+    damage: 0
+    price: 10
+  WET_SPONGE:
+    damage: 0
+    price: 10
+  WHEAT:
+    damage: 0
+    price: 10
+  WHEAT_SEEDS:
+    damage: 0
+    price: 10
+  WHITE_BANNER:
+    damage: 0
+    price: 10
+  WHITE_BED:
+    damage: 0
+    price: 10
+  WHITE_CARPET:
+    damage: 0
+    price: 10
+  WHITE_CONCRETE:
+    damage: 0
+    price: 10
+  WHITE_CONCRETE_POWDER:
+    damage: 0
+    price: 10
+  WHITE_DYE:
+    damage: 0
+    price: 10
+  WHITE_GLAZED_TERRACOTTA:
+    damage: 0
+    price: 10
+  WHITE_SHULKER_BOX:
+    damage: 0
+    price: 10
+  WHITE_STAINED_GLASS:
+    damage: 0
+    price: 10
+  WHITE_STAINED_GLASS_PANE:
+    damage: 0
+    price: 10
+  WHITE_TERRACOTTA:
+    damage: 0
+    price: 10
+  WHITE_TULIP:
+    damage: 0
+    price: 10
+  WHITE_WALL_BANNER:
+    damage: 0
+    price: 10
+  WHITE_WOOL:
+    damage: 0
+    price: 10
+  WITCH_SPAWN_EGG:
+    damage: 0
+    price: 10
+  WITHER_ROSE:
+    damage: 0
+    price: 10
+  WITHER_SKELETON_SKULL:
+    damage: 0
+    price: 10
+  WITHER_SKELETON_SPAWN_EGG:
+    damage: 0
+    price: 10
+  WITHER_SKELETON_WALL_SKULL:
+    damage: 0
+    price: 10
+  WOLF_SPAWN_EGG:
+    damage: 0
+    price: 10
+  WOODEN_AXE:
+    damage: 0
+    price: 10
+  WOODEN_HOE:
+    damage: 0
+    price: 10
+  WOODEN_PICKAXE:
+    damage: 0
+    price: 10
+  WOODEN_SHOVEL:
+    damage: 0
+    price: 10
+  WOODEN_SWORD:
+    damage: 0
+    price: 10
+  WRITABLE_BOOK:
+    damage: 0
+    price: 10
+  WRITTEN_BOOK:
+    damage: 0
+    price: 10
+  YELLOW_BANNER:
+    damage: 0
+    price: 10
+  YELLOW_BED:
+    damage: 0
+    price: 10
+  YELLOW_CARPET:
+    damage: 0
+    price: 10
+  YELLOW_CONCRETE:
+    damage: 0
+    price: 10
+  YELLOW_CONCRETE_POWDER:
+    damage: 0
+    price: 10
+  YELLOW_DYE:
+    damage: 0
+    price: 10
+  YELLOW_GLAZED_TERRACOTTA:
+    damage: 0
+    price: 10
+  YELLOW_SHULKER_BOX:
+    damage: 0
+    price: 10
+  YELLOW_STAINED_GLASS:
+    damage: 0
+    price: 10
+  YELLOW_STAINED_GLASS_PANE:
+    damage: 0
+    price: 10
+  YELLOW_TERRACOTTA:
+    damage: 0
+    price: 10
+  YELLOW_WALL_BANNER:
+    damage: 0
+    price: 10
+  YELLOW_WOOL:
+    damage: 0
+    price: 10
+  ZOMBIE_HEAD:
+    damage: 0
+    price: 10
+  ZOMBIE_HORSE_SPAWN_EGG:
+    damage: 0
+    price: 10
+  ZOMBIE_PIGMAN_SPAWN_EGG:
+    damage: 0
+    price: 10
+  ZOMBIE_SPAWN_EGG:
+    damage: 0
+    price: 10
+  ZOMBIE_VILLAGER_SPAWN_EGG:
+    damage: 0
+    price: 10
+  ZOMBIE_WALL_HEAD:
+    damage: 0
+    price: 10

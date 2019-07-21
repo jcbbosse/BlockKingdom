@@ -1,0 +1,105 @@
+Faction-Alerts:
+  enabled: true
+  disabled-message: '&c(!)&4 Alerts are disabled!'
+  command:
+    enabled: true
+    permission: btf.falerts.command
+    no-permission: '&4(!) &cYou dont have permission!'
+    no-faction: '&4(!) &cYou need a faction to perform this command!'
+    no-faction-admin: '&4(!) &cYou must be a faction admin to perform this command!'
+  messages:
+    TNT_EXPLODE: '&d&lFaction-Alert &7> A &4tnt &7has explode in your faction! Location:
+      &e{location}'
+    CREEPER_EXPLODE: '&d&lFaction-Alert &7> A &4Creeper &7has explode in your faction!
+      Location: &e{location}'
+    CREEPER_PLACE: '&d&lFaction-Alert &7> A &4Creeper &7has been placed in your faction
+      by: &d{player}! &7Location > &e{location}'
+    TNT_PLACE: '&d&lFaction-Alert &7> A &4TNT &7has been placed in your faction by:
+      &d{player}! &7Location > &e{location}'
+    SPAWNER_BREAK: '&d&lFaction-Alert &7> A &4SPAWNER &7has been broken in your faction
+      by &d{player}! &7Location: &e{location}'
+    SPAWNER_PLACE: '&d&lFaction-Alert &7> A &4SPAWNER &7has been placed in your faction
+      by &d{player}! &7Location: &e{location}'
+    PLAYER_LOGING: '&d&lFaction-Alert &7> &a{player} &7has logged in!'
+    PLAYER_LOGOUT: '&d&lFaction-Alert &7> &a{player} &7has logged out!'
+    DEATH_IN_COMBAT: '&d&lFaction-Alert &7> &a{player} &7has dead while in combat!'
+  gui:
+    Title: '&dFaction Alerts!'
+    CREEPER_EXPLODE:
+      enabled: true
+      name: '&bCreeper Explode'
+      position-in-gui: 21
+    CREEPER_PLACE:
+      enabled: true
+      name: '&bCreeper Place'
+      position-in-gui: 22
+    SPAWNER_BREAK:
+      enabled: true
+      name: '&bSpawner Break'
+      position-in-gui: 23
+    SPAWNER_PLACE:
+      enabled: true
+      name: '&bSpawner Place'
+      position-in-gui: 30
+    TNT_EXPLODE:
+      enabled: true
+      name: '&bTNT Explode'
+      position-in-gui: 31
+    TNT_PLACE:
+      enabled: true
+      name: '&bTNT Place'
+      position-in-gui: 32
+    PLAYER_LOGOUT:
+      enabled: true
+      name: '&bPlayer logout'
+      position-in-gui: 39
+    PLAYER_LOGING:
+      enabled: true
+      name: '&bPlayer login'
+      position-in-gui: 40
+    DEATH_IN_COMBAT:
+      enabled: true
+      name: '&bDeath in combat'
+      position-in-gui: 41
+    Enabled:
+      material: EMERALD
+      lore: '&aEnabled'
+      damage: '0'
+    Disabled:
+      material: REDSTONE_BLOCK
+      lore: '&cDisabled'
+      damage: '0'
+    Spacer:
+      material: BLACK_STAINED_GLASS_PANE
+      damage: '0'
+    Buttons:
+      Coleader:
+        button-name: '&dColeaders'
+        button-lore: '&6Enabled alerts for Coleaders!'
+        button-material: DIAMOND_AXE
+        button-damage-id: '0'
+        position-in-gui: 21
+      Admin:
+        button-name: '&dAdmins'
+        button-lore: '&6Enabled alerts for Admins!'
+        button-material: DIAMOND
+        button-damage-id: '0'
+        position-in-gui: 13
+      Moderator:
+        button-name: '&BMods'
+        button-lore: '&6Enabled alerts for Mods!'
+        button-material: EMERALD
+        button-damage-id: '0'
+        position-in-gui: 31
+      Member:
+        button-name: '&DMembers'
+        button-lore: '&6Enabled alerts for members!'
+        button-material: IRON_INGOT
+        button-damage-id: '0'
+        position-in-gui: 23
+      Back:
+        button-name: '&EBack'
+        button-lore: '&dReturn to main menu!'
+        button-material: ARROW
+        button-damage-id: '0'
+        position-in-gui: 0

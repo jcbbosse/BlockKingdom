@@ -1,0 +1,34 @@
+Settings:
+  enabled: true
+  disabled-message: '&cExperience withdraw was disabled by an operator!'
+  max-raw-withdraw: 10000
+  max-level-withdraw: 30
+command:
+  enabled: true
+  permission: btf.expwithdraw.command
+  no-permission-msg: '&cYou dont have permission to use this command!'
+  formats:
+  - '&eUssage for levels: &7/expwithdraw <amount> level'
+  - '&eUssage for raw experience: &7/expwithdraw <amount> raw'
+  - '&eUssage for withdrawing all of your experience: &7/expwithdraw all'
+  raw-permission: btf.bottlexp.raw.command
+  level-permission: btf.bottlexp.level.command
+  all-permission: btf.bottlexp.all.command
+  invalid-amount: '&cIntroduce a valid amount of xp!'
+  not-enought-exp: '&cYou dont have enought experience to withdraw!'
+  max-reached: '&cThe max experience you can withdraw is &e{max}'
+  success-message-raw: '&eYou withdrew &7{amount} &eexperience'
+  success-message-level: '&eYou withdrew &7{amount} &elevel/s!'
+  success-message-all: '&eYou withdrew &7{amount} &eexperience'
+Item:
+  material: EXPERIENCE_BOTTLE
+  damage: 0
+  name: '&6EXP bottle!'
+  lore-raw:
+  - '&cLeft click to obtain the experience!'
+  - '&eWithdrawn by: &6{player}'
+  - '&eAmount of raw xp: &6{amount}'
+  lore-level:
+  - '&cLeft click to obtain the experience!'
+  - '&eWithdrawn by: &6{player}'
+  - '&eAmount of xp levels: &6{amount}'

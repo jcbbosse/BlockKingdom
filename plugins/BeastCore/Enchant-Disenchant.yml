@@ -1,0 +1,28 @@
+Commands:
+  Enchant:
+    enabled: true
+    command-ussage: '&eCommand ussage: &7/enchant <enchant_name> <level>'
+    permission: btf.enchant.command
+    no-permission-msg: '&c(!) &4You dont have permission to enchant items!'
+    you-are-not-a-player: '&c(!) &4You must be a player to use this command!'
+    you-are-not-holding-anything: '&c(!) &4You dont have anything in your hand!'
+    invalid-enchant: '&c(!) &4The enchantment &c{enchant_name} &4does not exist!'
+    available-enchants-format-message: '&7- &e{enchant_name}'
+    invalid-level: '&c(!) &4Introduce a valid enchant level!'
+    item-enchanted: '&eYou enchanted your item with &a{enchant_name} &elevel &a{level}'
+  Disenchant:
+    enabled: true
+    permission: btf.disenchant.command
+    permission-all: btf.disenchantall.command
+    no-permission-msg: '&c(!) &4You dont have permission to disenchant items!'
+    command-ussage:
+    - '&eRemove all enchants from item: &7/disenchant all'
+    - '&eRemove certain enchant from item: &7/disenchant <enchant_name>'
+    invalid-enchant: '&c(!) &4The item you are holding does not have that enchant!
+      Here a list of enchants that the item has:'
+    available-enchants-format-message: '&7- &e{enchant_name}'
+    you-are-not-a-player: '&c(!) &4You must be a player to use this command!'
+    you-are-not-holding-anything: '&c(!) &4You dont have anything in your hand!'
+    the-item-has-no-enchant: '&c(!) &4The item you are holding has no enchants!'
+    item-disenchanted: '&eYou disenchanted your item!'
+    give-book: true

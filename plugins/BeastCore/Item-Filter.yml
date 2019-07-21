@@ -1,0 +1,31 @@
+Item-Filter:
+  Command:
+    enabled: true
+    permission: btf.itemfilter.command
+    no-permission-message: '&cYou dont have permission!'
+  GUI:
+    page-size: 54
+    page-title: '&eItem filter page &d{page}'
+    fill-with-spacers: true
+    Buttons:
+      previous-page:
+        material: ARROW
+        name: '&ePrevious page'
+        damage: 0
+        position: 45
+      next-page:
+        material: ARROW
+        name: '&eNext page'
+        damage: 0
+        position: 53
+      materials-format:
+        name: '&e{material_name}'
+        lore-enabled:
+        - '&eClick to toggle this item pickup!'
+        - '&7Status: &aEnabled'
+        lore-disabled:
+        - '&eClick to toggle this item pickup!'
+        - '&7Status: &cDisabled'
+      Spacer-Button:
+        material: GLASS
+        damage: 0

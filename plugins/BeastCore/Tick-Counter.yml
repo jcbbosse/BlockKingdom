@@ -1,0 +1,15 @@
+enabled: true
+Item:
+  material: BLAZE_ROD
+  name: '&dTicks counter'
+  lore:
+  - '&eClick on repeaters to count ticks!'
+Command:
+  enabled: true
+  permission: bfc.tickcounter.comand
+  no-permission-message: '&cYou dont have permission'
+Messages:
+  received-counter: '&eYou received a tick counter! This is an idea of: &7Kieran //
+    HelpUs#2769'
+  tick-message: '&eTicks: &7{ticks}  &aGame ticks: &7{game_ticks}'
+  selection-reset: '&eYour selection has been reset!'

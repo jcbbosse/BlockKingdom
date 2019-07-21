@@ -1,0 +1,12 @@
+Placeholders:
+  Gapple-Cooldown:
+    Running: '{time} &eSeconds'
+    Finished: '&aReady!'
+  Pearl-Cooldown:
+    Running: '{time} &eSeconds'
+    Finished: '&aReady!'
+  Combat:
+    Running: '{time} &eSeconds'
+    Finished: '&aOut of combat!'
+  Grace:
+    Disabled: '&cDisabled'

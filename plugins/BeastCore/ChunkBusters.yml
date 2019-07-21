@@ -1,0 +1,41 @@
+Chunk-Busters:
+  enabled: true
+  disabled-message: '&c(!) &4Chunkbusters are disabled!'
+  command:
+    enabled: true
+    permission: bfc.chunkbusters.give
+    no-permission-msg: '&c(!) &4You dont have permission to use chunkbusters command!'
+    player-offline: '&4(!) &cThe player is offline or does not exist!'
+    recieve-message: '&eYou got &7{count} &echunkbuster/s !'
+    gave-message: '&eYou gave &7{count} &echunkbuster/s to &d{player}'
+    no-slot: '&eThe player has not an empty slot to recieve the item!'
+    format: '&eCommand ussage: &7/chunkbust give <player> <amount> <chunkbuster_radius>'
+    invalid-radius: '&eIntroduce a radius that can be divided by 3 (1x1, 3x3, 6x6,
+      9x9 ...)'
+    invalid-amount: '&cIntroduce a valid radius!'
+  ChunkBuster:
+    item-material: TNT
+    item-damage: '0'
+    item-name: '&dChunk Buster'
+    lore:
+    - '&eRemove chunks in a radius of:'
+    - '&e{radius} &7x &e{radius}'
+  Settings:
+    break-other-factions-chunks-in-radius: false
+    deny-placing-outside-own-faction-land: true
+    deny-placing-outside-own-faction-land-message: '&cYou cant place chunkbusters
+      outside of your claims!'
+    radius:
+    - 1
+    - 3
+    - 9
+    place-beastCooldown: 300
+    broadcast-beastCooldown: true
+    place-beastCooldown-message: '&eYou cant place another chunkbuster until the beastCooldown
+      ends! &d{beastCooldown} s'
+    explode-beastCooldown: 10
+    explode-beastCooldown-message: '&dThe chunk will be removed in.. {seconds} s'
+    explode-message: '&eThe Chunk was removed!'
+    ignored-blocks:
+    - BEDROCK
+    - BEACON

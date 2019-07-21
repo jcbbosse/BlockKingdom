@@ -1,0 +1,63 @@
+Edit-Drops:
+  enabled: true
+Gui-Menu:
+  menu-title: '&dDrop editing!'
+  back-button:
+    name: '&eBack'
+    position: 53
+    material: ARROW
+    damage: '0'
+    lore: &id001 []
+  save-button:
+    name: '&aSave'
+    position: 52
+    material: BOOK
+    damage: '0'
+    lore: *id001
+  close-button:
+    name: '&cClose'
+    position: 53
+    material: REDSTONE_BLOCK
+    damage: '0'
+    lore: *id001
+  vanilla-drops-button:
+    name: '&dVanilla Drops'
+    position: 52
+    material: BOOK
+    damage: '0'
+    lore-enabled: &id002
+    - '&aEnabled'
+    lore-disabled: &id003
+    - '&cDisabled'
+  advanced-drops-button:
+    name: '&eAdvanced Drops'
+    position: 51
+    material: PAPER
+    damage: '0'
+    lore-enabled: *id002
+    lore-disabled: *id003
+  advanced-drops-button-open:
+    name: '&eAdvanced Drops Menu'
+    position: 50
+    material: GOLD_NUGGET
+    damage: '0'
+    lore:
+    - '&eOpen advanced drops menu'
+  info-drops-button:
+    name: '&eInfo'
+    position: 52
+    material: GOLD_NUGGET
+    damage: '0'
+    lore:
+    - '&aLeft click &e---> &fIncrease drop chance by: &a{chance_increase} %'
+    - '&cRight click &e---> &fDecrease drop chance by: &c{chance_decrease} %'
+    - '&aShift + Click &e---> &fRemove the item from the drops list'
+  Advanced-Drops:
+    chance-lore-line: '&eChance: &a{chance}&e %'
+    chance-increase-by-click: 10
+    chance-decrease-by-click: 10
+  drops-saved-message: '&aDrops succesfully saved!'
+command:
+  enabled: true
+  no-permission: '&4(!) &cYou dont have permission!'
+  permission: btf.drops-editor.command
