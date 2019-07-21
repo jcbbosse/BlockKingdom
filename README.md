@@ -17,7 +17,7 @@ As a vibrant community we pride ourselves on always being connected with each ot
 ### [Browse our Website](www.blockkingdom.net) - UNDER CONSTRUCTION
 Browse our site online to find help and guidance for all of the services we offer!
 
-### [Support our Mission [Webstore Link](www.blockkingdom.buycraft.net)] - UNDER CONSTRUCTION
+### [Support our Mission](www.blockkingdom.buycraft.net)] - UNDER CONSTRUCTION
 Pick up a nifty rank to show your support and progress in the game with one of the many packages selling on our webstore.
 
 Even though BlockKingdom is developed and run by the community we still have monthly costs. Please consider supporting our cause and help us stay online by donating!
