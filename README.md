@@ -26,10 +26,10 @@ Even though BlockKingdom is developed and run by the community we still have mon
 Clone the repository, become a contributor, submit an issue, and help us improve our server! Please use the steps listed below to submit changes to our server!
 
 ### Steps
-1. Download or clone the entire BlockKingdom repository.
+1. Download or clone the entire BlockKingdom repository [here](https://github.com/ChickensBurning/BlockKingdom/archive/master.zip).
 2. Navigate to the plugin file you want to change.
 3. Open the configuration file in your favorite text editor.
-4. Make the desired changes.
+4. Make your desired changes.
 5. Navigate to the Issues section of the BlockKingdom GitHub [here](https://github.com/ChickensBurning/BlockKingdom/issues).
 6. Explain the changes you made and why you made them.
 7. Attach the configuration file you edited to your post.
