@@ -9,18 +9,28 @@ Long story short I have begun my newest project, sparking the start of a communi
 
 ## Getting Started
 ### Play on the Server [IP: blockkingdom.net] - BETA LAUNCH ON JULY 26, 2019
-Get started playing now by connecting to our Minecraft server using the IP posted above!
+Get started playing now by connecting to our Minecraft server using the IP listed above!
 
-### Join us on Discord [[Invitation Link](https://discord.gg/rRYjyha)]
+### [Join us on Discord](https://discord.gg/rRYjyha)
 As a vibrant community we pride ourselves on always being connected with each other, even off of the server! Come connect, laugh, and chat with all your friends in the BlockKingdom community by clicking the invitation link above!
 
-### Browse our Website [[Website Link](www.blockkingdom.net)] - UNDER CONSTRUCTION
+### [Browse our Website](www.blockkingdom.net) - UNDER CONSTRUCTION
 Browse our site online to find help and guidance for all of the services we offer!
 
-### Support our Mission [[Webstore Link](www.blockkingdom.buycraft.net)] - UNDER CONSTRUCTION
+### [Support our Mission](www.blockkingdom.buycraft.net) - UNDER CONSTRUCTION
 Pick up a nifty rank to show your support and progress in the game with one of the many packages selling on our webstore.
 
 Even though BlockKingdom is developed and run by the community we still have monthly costs. Please consider supporting our cause and help us stay online by donating!
 
 ## How to Help
-Clone the repository, become a contributor, submit an issue, and help us improve our server!
+Clone the repository, become a contributor, submit an issue, and help us improve our server! Please use the steps listed below to submit changes to our server!
+
+### Steps
+1. Download or clone the entire BlockKingdom repository [here](https://github.com/ChickensBurning/BlockKingdom/archive/master.zip).
+2. Navigate to the plugin file you want to change.
+3. Open the configuration file in your favorite text editor.
+4. Make your desired changes.
+5. Navigate to the Issues section of the BlockKingdom GitHub [here](https://github.com/ChickensBurning/BlockKingdom/issues).
+6. Explain the changes you made and why you made them.
+7. Attach the configuration file you edited to your post.
+8. Submit the issue for review.
