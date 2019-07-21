@@ -11,7 +11,7 @@ Long story short I have begun my newest project, sparking the start of a communi
 ### Play on the Server [IP: blockkingdom.net] - BETA LAUNCH ON JULY 26, 2019
 Get started playing now by connecting to our Minecraft server using the IP listed above!
 
-### [Join us on Discord](https://discord.gg/rRYjyha)
+### [Join us on Discord](https://discord.gg/zU6BKs)
 As a vibrant community we pride ourselves on always being connected with each other, even off of the server! Come connect, laugh, and chat with all your friends in the BlockKingdom community by clicking the invitation link above!
 
 ### [Browse our Website](www.blockkingdom.net) - UNDER CONSTRUCTION
