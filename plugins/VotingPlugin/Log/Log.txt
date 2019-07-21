@@ -30,3 +30,7 @@ Sun, 21 Jul 2019 11:53 [VotingPlugin] Debug: Loaded VoteSites
 Sun, 21 Jul 2019 11:53 [VotingPlugin] Debug: Detected using spigot
 Sun, 21 Jul 2019 11:53 [VotingPlugin] Debug: Server in online mode
 Sun, 21 Jul 2019 11:53 [VotingPlugin] Debug: Loaded rewards
+Sun, 21 Jul 2019 12:59 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 21 Jul 2019 12:59 [VotingPlugin] Debug: Detected using spigot
+Sun, 21 Jul 2019 12:59 [VotingPlugin] Debug: Server in online mode
+Sun, 21 Jul 2019 12:59 [VotingPlugin] Debug: Loaded rewards

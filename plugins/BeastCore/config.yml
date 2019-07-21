@@ -16,7 +16,8 @@ Server-Protector:
 EnderPearl-BeastCooldown:
   enabled: true
   beastCooldown: 1
-  on-beastCooldown-message: '&7You are on a &d{beastCooldown} &dsecond &7cooldown to use that again!'
+  on-beastCooldown-message: '&7You are on a &d{beastCooldown} &dsecond &7cooldown
+    to use that again!'
   bypass-permission: btf.pearlcd.bypass
   beastCooldown-ended: ''
   excluded-worlds:

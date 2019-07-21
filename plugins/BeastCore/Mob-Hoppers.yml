@@ -4,7 +4,7 @@ Mob-Hoppers:
   command:
     enabled: true
     permission: bfc.mobhoppers.give
-    no-permission-msg: '(!) You dont have permission!'
+    no-permission-msg: (!) You dont have permission!
     player-not-online: '&cThe player is not online!'
     no-slot: '&cThe player has no slots!'
     give-message: '&eYou gave &d{player} &e{number} &7mob hopper/s of &d{mob}!'
