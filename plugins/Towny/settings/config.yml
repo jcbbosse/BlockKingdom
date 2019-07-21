@@ -260,13 +260,13 @@ new_world_settings:
     # Set if PVP is enabled in this world
     world_pvp: 'true'
     # force_pvp_on is a global flag and overrides any towns flag setting
-    force_pvp_on: 'false'
+    force_pvp_on: 'true'
  
   mobs:
     # world_monsters_on is a global flag setting per world.
     world_monsters_on: 'true'
     # force_town_monsters_on is a global flag and overrides any towns flag setting
-    force_town_monsters_on: 'false'
+    force_town_monsters_on: 'true'
  
   explosions:
     # Allow explosions in this world
@@ -381,7 +381,7 @@ global_town_settings:
   # If non zero it delays any spawn request by x seconds.
   teleport_warmup_time: '0'
   # Respawn the player at his town spawn point when he/she dies
-  town_respawn: 'false'
+  town_respawn: 'true'
   # Town respawn only happens when the player dies in the same world as the town's spawn point.
   town_respawn_same_world_only: 'false'
   # Prevent players from using /town spawn while within unclaimed areas and/or enemy/neutral towns.
@@ -593,7 +593,7 @@ protection:
   # 368 - ender pearl
   # 374 - glass bottle
   # 385 - fire charge
-  item_use_ids: FLINT_AND_STEEL,BUCKET,WATER_BUCKET,LAVA_BUCKET,MINECART,STORAGE_MINECART,INK_SACK,SHEARS,ENDER_PEARL,GLASS_BOTTLE,FIREBALL,ARMOR_STAND,SKULL_ITEM,BOAT_BIRCH,BOAT_ACACIA,BOAT_DARK_OAK,BOAT_JUNGLE,BOAT,BOAT_SPRUCE,END_CRYSTAL,POWERED_MINECART,COMMAND_MINECART,EXPLOSIVE_MINECART,HOPPER_MINECART
+  item_use_ids: FLINT_AND_STEEL,BUCKET,WATER_BUCKET,LAVA_BUCKET,MINECART,STORAGE_MINECART,INK_SACK,SHEARS,ENDER_PEARL,GLASS_BOTTLE,FIREBALL,ARMOR_STAND,SKULL_ITEM,BOAT_BIRCH,BOAT_ACACIA,BOAT_DARK_OAK,BOAT_JUNGLE,BOAT,BOAT_SPRUCE,END_CRYSTAL,POWERED_MINECART,COMMAND_MINECART,EXPLOSIVE_MINECART,HOPPER_MINECART,FISHING_ROD
  
   # Items which can be blocked or enabled via town/plot flags
   # 25 - noteblock
@@ -842,7 +842,7 @@ resident_settings:
   # The name of the town a resident will automatically join when he first registers.
   default_town_name: ''
   # If true, players can only use beds in plots they personally own.
-  deny_bed_use: 'false'
+  deny_bed_use: 'true'
   # If true, players who join the server for the first time will cause the msg_registration message in the language files to be shown server-wide.
   is_showing_welcome_message: 'true'
  
@@ -972,7 +972,7 @@ economy:
 jail:
   #If true attacking players who die on enemy-town land will be placed into the defending town's jail if it exists.
   #Requires town_respawn to be true in order to work.
-  is_jailing_attacking_enemies: 'false'
+  is_jailing_attacking_enemies: 'true'
   #If true attacking players who are considered an outlaw, that are killed inside town land will be placed into the defending town's jail if it exists.
   #Requires town_respawn to be true in order to work.
   is_jailing_attacking_outlaws: 'false'
@@ -983,9 +983,9 @@ jail:
  
   bail:
     #If true players can pay a bail amount to be unjailed.
-    is_allowing_bail: 'false'
+    is_allowing_bail: 'true'
     #Amount that bail costs.
-    bail_amount: '10'
+    bail_amount: '1000'
  
  
   ############################################################

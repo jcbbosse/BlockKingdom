@@ -1,5 +1,5 @@
-prefix: '&5[&9FeatherBoard&5] '
-prefix-error: '&4[&cFeatherBoard&4] '
+prefix: '&8[&9FeatherBoard&8] '
+prefix-error: '&8[&cFeatherBoard&8] '
 config-reload: '&aConfiguration reloaded!'
 config-reset: '&cConfiguration has been reset!'
 no-permission: '&cYou do not have permissions!'
