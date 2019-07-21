@@ -8,13 +8,13 @@ My name is ChickensBurning and I have been in and out of the server administrati
 Long story short I have begun my newest project, sparking the start of a community driven Minecraft server. One developed for the players by the players. Our mission at BlockKingdom is simple, give players what they want. And the only person that knows what you want is you. Therefore, every day we allow our players to browse the backend configuration of our server and suggest new additions or edits of their own to be reviewed and possible implemented. Allowing us to ultimately create the best Minecraft experience for you!
 
 ## Getting Started
-### Play on the Server [IP: blockkingdom.net] - BETA LAUNCH ON JULY 26, 2019
+### Play on the Server [IP: blockkingdom.org] - BETA LAUNCH ON JULY 26, 2019
 Get started playing now by connecting to our Minecraft server using the IP listed above!
 
 ### [Join us on Discord](https://discord.gg/zU6BKs)
 As a vibrant community we pride ourselves on always being connected with each other, even off of the server! Come connect, laugh, and chat with all your friends in the BlockKingdom community by clicking the invitation link above!
 
-### [Browse our Website](www.blockkingdom.net) - UNDER CONSTRUCTION
+### [Browse our Website](www.blockkingdom.org) - UNDER CONSTRUCTION
 Browse our site online to find help and guidance for all of the services we offer!
 
 ### [Support our Mission](www.blockkingdom.buycraft.net) - UNDER CONSTRUCTION
