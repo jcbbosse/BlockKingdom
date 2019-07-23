@@ -8,7 +8,7 @@ version: 0.20
 templates:
   # Nether world template (HDMap lowres)
   nether-lowres:
-    enabled: true
+    enabled: false
     # Number of extra zoom-out levels for world (each level is twice as big as the previous one)
     extrazoomout: 2
     #center:

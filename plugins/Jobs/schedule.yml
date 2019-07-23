@@ -10,13 +10,14 @@
 
 Boost:
   NightBoost:
-    Enabled: false
-    From: '23:00:00'
-    Until: '07:00:00'
+    Enabled: true
+    From: '20:00:00'
+    Until: '06:00:00'
     Exp: 2.0
     Money: 2.0
     Days:
-    - All
+    - Friday
+    - Saturday
     Jobs:
     - All
     BroadcastOnStart: true

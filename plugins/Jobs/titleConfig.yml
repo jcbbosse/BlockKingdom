@@ -18,34 +18,34 @@ Titles:
     Name: A
     ShortName: A
     ChatColour: WHITE
-    levelReq: 25
+    levelReq: 15
   Initiate:
     Name: I
     ShortName: I
     ChatColour: GOLD
-    levelReq: 50
+    levelReq: 30
   Journeyman:
     Name: J
     ShortName: J
     ChatColour: DARK_GREEN
-    levelReq: 75
+    levelReq: 45
   Adept:
     Name: Ad
     ShortName: Ad
     ChatColour: DARK_PURPLE
-    levelReq: 100
+    levelReq: 60
   Master:
     Name: M
     ShortName: M
     ChatColour: GRAY
-    levelReq: 125
+    levelReq: 75
   Grandmaster:
     Name: GM
     ShortName: GM
     ChatColour: DARK_GRAY
-    levelReq: 150
+    levelReq: 90
   Legendary:
     Name: L
     ShortName: L
     ChatColour: BLACK
-    levelReq: 200
+    levelReq: 100

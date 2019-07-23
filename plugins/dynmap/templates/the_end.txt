@@ -7,7 +7,7 @@ version: 1.9
 templates:
   # The End world template
   the_end:
-    enabled: true
+    enabled: false
     # Number of extra zoom-out levels for world (each level is twice as big as the previous one)
     extrazoomout: 2
     #center:

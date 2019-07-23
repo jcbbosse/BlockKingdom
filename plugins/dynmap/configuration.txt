@@ -39,11 +39,11 @@ components:
   - class: org.dynmap.ClientConfigurationComponent
   
   - class: org.dynmap.InternalClientUpdateComponent
-    sendhealth: true
+    sendhealth: false
     sendposition: true
-    allowwebchat: true
+    allowwebchat: false
     webchat-interval: 5
-    hidewebchatip: false
+    hidewebchatip: true
     trustclientname: false
     includehiddenplayers: false
     # (optional) if true, color codes in player display names are used
@@ -51,7 +51,7 @@ components:
     # (optional) if true, player login IDs will be used for web chat when their IPs match
     use-player-login-ip: true
     # (optional) if use-player-login-ip is true, setting this to true will cause chat messages not matching a known player IP to be ignored
-    require-player-login-ip: false
+    require-player-login-ip: true
     # (optional) block player login IDs that are banned from chatting
     block-banned-player-chat: true
     # Require login for web-to-server chat (requires login-enabled: true)
@@ -97,7 +97,7 @@ components:
   #  hidenames: false
    
   - class: org.dynmap.SimpleWebChatComponent
-    allowchat: true
+    allowchat: false
     # If true, web UI users can supply name for chat using 'playername' URL parameter.  'trustclientname' must also be set true.
     allowurlname: false
   
@@ -125,7 +125,7 @@ components:
     spawnbedicon: bed
     spawnbedhidebydefault: true
     spawnbedminzoom: 0
-    spawnbedformat: "%name%'s bed"
+    spawnbedformat: "%name%'s Bed"
     # (optional) show world border (vanilla 1.8+)
     showworldborder: true
     
@@ -148,7 +148,7 @@ components:
   - class: org.dynmap.ClientComponent
     type: playermarkers
     showplayerfaces: true
-    showplayerhealth: true
+    showplayerhealth: false
     # If true, show player body too (only valid if showplayerfaces=true
     showplayerbody: false
     # Option to make player faces small - don't use with showplayerhealth
@@ -198,16 +198,16 @@ components:
 display-whitelist: false
 
 # How often a tile gets rendered (in seconds).
-renderinterval: 1
+renderinterval: 5
 
 # How many tiles on update queue before accelerate render interval
-renderacceleratethreshold: 60
+renderacceleratethreshold: 64
 
 # How often to render tiles when backlog is above renderacceleratethreshold
-renderaccelerateinterval: 0.2
+renderaccelerateinterval: 1
 
 # How many update tiles to work on at once (if not defined, default is 1/2 the number of cores)
-tiles-rendered-at-once: 2
+tiles-rendered-at-once: 4
 
 # If true, use normal priority threads for rendering (versus low priority) - this can keep rendering
 # from starving on busy Windows boxes (Linux JVMs pretty much ignore thread priority), but may result
@@ -235,10 +235,10 @@ tileupdatedelay: 30
 enabletilehash: true
 
 # Optional - hide ores: render as normal stone (so that they aren't revealed by maps)
-#hideores: true
+hideores: true
 
 # Optional - enabled BetterGrass style rendering of grass and snow block sides
-#better-grass: true
+better-grass: true
 
 # Optional - enable smooth lighting by default on all maps supporting it (can be set per map as lighting option)
 smooth-lighting: true
@@ -266,9 +266,9 @@ correct-water-lighting: true
 transparent-leaves: true
 
 # ctm-support: if true, Connected Texture Mod (CTM) in texture packs is enabled (default)
-ctm-support: true
+ctm-support: false
 # custom-colors-support: if true, Custom Colors in texture packs is enabled (default)
-custom-colors-support: true
+custom-colors-support: fa;se
 
 # Control loading of player faces (if set to false, skins are never fetched)
 #fetchskins: false
@@ -299,7 +299,7 @@ render-triggers:
   #- blockredstone
 
 # Title for the web page - if not specified, defaults to the server's name (unless it is the default of 'Unknown Server')
-#webpage-title: "My Awesome Server Map"
+webpage-title: "BlockKingdom Map"
 
 # The path where the tile-files are placed.
 tilespath: web/tiles
@@ -318,7 +318,7 @@ exportpath: export
 webserver-port: 8123
 
 # Maximum concurrent session on internal web server - limits resources used in Bukkit server
-max-sessions: 30
+max-sessions: 32
 
 # Disables Webserver portion of Dynmap (Advanced users only)
 disable-webserver: false
@@ -355,11 +355,11 @@ updateplayerlimit: 0
 # Target limit on server thread use - msec per tick
 per-tick-time-limit: 50
 # If TPS of server is below this setting, update renders processing is paused
-update-min-tps: 18.0
+update-min-tps: 19.0
 # If TPS of server is below this setting, full/radius renders processing is paused
-fullrender-min-tps: 18.0
+fullrender-min-tps: 19.0
 # If TPS of server is below this setting, zoom out processing is paused
-zoomout-min-tps: 18.0
+zoomout-min-tps: 19.0
 
 showplayerfacesinmenu: true
 
@@ -385,12 +385,12 @@ trusted-proxies:
   - "0:0:0:0:0:0:0:1"
   
 # Join/quit message format for web chat: set to "" to disable notice on web UI
-joinmessage: "%playername% joined"
-quitmessage: "%playername% quit"
+joinmessage: "&color;&5%playername% has returned to &color;&3Block&color;&2Kingdom&color;&5!"
+quitmessage: ""
 
 spammessage: "You may only chat once every %interval% seconds."
 # format for messages from web: %playername% substitutes sender ID (typically IP), %message% includes text
-webmsgformat: "&color;2[WEB] %playername%: &color;f%message%"
+webmsgformat: "&color;8[&color;bWeb&color;8] %playername%: &color;f%message%"
 
 # Control whether layer control is presented on the UI (default is true)
 showlayercontrol: true
@@ -420,9 +420,9 @@ msg:
     maptypes: "Map Types"
     players: "Players"
     chatrequireslogin: "Chat Requires Login"
-    chatnotallowed: "You are not permitted to send chat messages"
-    hiddennamejoin: "Player joined"
-    hiddennamequit: "Player quit"
+    chatnotallowed: "You are not permitted to send chat messages!"
+    hiddennamejoin: ""
+    hiddennamequit: ""
 
 # URL for client configuration (only need to be tailored for proxies or other non-standard configurations)
 url:
