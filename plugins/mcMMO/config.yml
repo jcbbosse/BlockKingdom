@@ -15,7 +15,7 @@ General:
     # Amount of time (in minutes) to wait between saves of player information
     Save_Interval: 10
     # Allow mcMMO to report on basic anonymous usage
-    Stats_Tracking: true
+    Stats_Tracking: false
     # Allow mcMMO to check if a new version is available
     Update_Check: true
     Prefer_Beta: false
@@ -49,7 +49,7 @@ Scoreboard:
 
     # Show scoreboard tips 5 times. Tips are only displayed once for every login session.
     # Set to 0 to never show these tips.
-    Tips_Amount: 5
+    Tips_Amount: 0
 
     # Add some more color on the board :-)
     Rainbows: false
@@ -500,7 +500,7 @@ Commands:
         # Prevents players from spamming /mctop or /mcrank
         Player_Cooldown: 1750
     mcmmo:
-        Donate_Message: true
+        Donate_Message: false
     inspect:
         Max_Distance: 30.0
     ptp:
